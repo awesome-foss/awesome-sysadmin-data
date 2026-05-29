@@ -1,8 +1,8 @@
 # awesome-sysadmin-data
 
-This repository holds data used to generate https://rabenherz112.github.io/awesome-sysadmin-html/ and https://github.com/Rabenherz112/awesome-sysadmin-markdown
+This repository holds data used to generate https://sysadmin.awesome-selfhosted.net/ and https://github.com/awesome-foss/awesome-sysadmin
 
-[![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/build.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/build.yml) [![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/update-metadata.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/update-metadata.yml) [![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/dead-links.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1) [![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/unmaintained-projects.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1)
+[![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/build.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/build.yml) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/update-metadata.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/update-metadata.yml) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/dead-links.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/unmaintained-projects.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1)
 
 ## Contributing
 

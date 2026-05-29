@@ -26,7 +26,7 @@ jobs:
   build-markdown:
     environment:
       name: production
-      url: https://github.com/Rabenherz112/awesome-sysadmin-markdown
+      url: https://github.com/awesome-foss/awesome-sysadmin
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd
@@ -45,7 +45,7 @@ jobs:
   build-html:
     environment:
       name: production
-      url: https://github.com/Rabenherz112/awesome-sysadmin-html
+      url: https://github.com/awesome-foss/awesome-sysadmin-html
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd

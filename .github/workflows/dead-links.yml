@@ -11,7 +11,7 @@ concurrency:
 
 jobs:
   check-dead-links:
-    if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd

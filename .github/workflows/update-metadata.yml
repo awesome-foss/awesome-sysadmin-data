@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   update-metadata:
-    if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
     runs-on: ubuntu-latest
     environment: production
     steps:
@@ -30,7 +30,7 @@ jobs:
           git diff-index --quiet HEAD || git commit -m "[bot] update projects metadata"
           git push
   build:
-    if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
     needs: update-metadata
     uses: ./.github/workflows/build.yml
     secrets: inherit

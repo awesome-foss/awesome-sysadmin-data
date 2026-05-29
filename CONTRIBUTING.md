@@ -1,6 +1,6 @@
 # Contributing
 
-Don't know where to start? Check issues labeled [`help wanted`](https://github.com/Rabenherz112/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), [`bug`](https://github.com/Rabenherz112/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [`curation`](https://github.com/Rabenherz112/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration).
+Don't know where to start? Check issues labeled [`help wanted`](https://github.com/awesome-foss/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), [`bug`](https://github.com/awesome-foss/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3Abug) and [`curation`](https://github.com/awesome-foss/awesome-sysadmin-data/issues?q=is%3Aissue+is%3Aopen+label%3Acuration).
 
 ### Curation
 
@@ -8,20 +8,20 @@ Don't know where to start? Check issues labeled [`help wanted`](https://github.c
 - Non-working software may be removed from the list
 - Unmaintained software without an active community may be removed from the list
 - Software with persistent, serious security issues will be removed from the list
-- Problems should be reported automatically: [![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/dead-links.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1) [![](https://github.com/Rabenherz112/awesome-sysadmin-data/actions/workflows/unmaintained-projects.yml/badge.svg)](https://github.com/Rabenherz112/awesome-sysadmin-data/issues/1)
+- Problems should be reported automatically: [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/dead-links.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1) [![](https://github.com/awesome-foss/awesome-sysadmin-data/actions/workflows/unmaintained-projects.yml/badge.svg)](https://github.com/awesome-foss/awesome-sysadmin-data/issues/1)
 
 ### Add software to the list
 
-- [Create a new `software/software-name.yml` file](https://github.com/Rabenherz112/awesome-sysadmin-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md). Please use [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) for file naming, for example, `my-awesome-software.yml`.
+- [Create a new `software/software-name.yml` file](https://github.com/awesome-foss/awesome-sysadmin-data/new/master/software), based on the template in [.github/ISSUE_TEMPLATES/addition.md](.github/ISSUE_TEMPLATE/addition.md). Please use [kebab-case](https://en.wikipedia.org/wiki/Letter_case#Kebab_case) for file naming, for example, `my-awesome-software.yml`.
 - Remove comments and unused optional fields
 - Enter a descriptive commit message (such as `add My Awesome software`)
 - Select `Create a new branch for this commit and start a pull request`
 - Click `Propose new file`
 - Click `Create pull request`
 
-If you are not comfortable sending a pull request, please open a new [issue](https://github.com/Rabenherz112/awesome-sysadmin-data/issues).
+If you are not comfortable sending a pull request, please open a new [issue](https://github.com/awesome-foss/awesome-sysadmin-data/issues).
 
-In [single page mode](https://github.com/Rabenherz112/awesome-sysadmin-markdown) the software will only appear under the first category in its `tags` list, so choose wisely.
+In [single page mode](https://github.com/awesome-foss/awesome-sysadmin) the software will only appear under the first category in its `tags` list, so choose wisely.
 
 ### Add a tag/category
 
@@ -73,7 +73,7 @@ description: "[Java](https://en.wikipedia.org/wiki/Java_(programming_language)) 
 
 Simply delete the appropriate file under `software/` and submit a Pull Request.
 To do this from Github's web interface:
-- use the [go to file](https://github.com/Rabenherz112/awesome-sysadmin-data?search=1) feature to open the appropriate file (e.g. [`software/apache-ant.yml`](https://github.com/Rabenherz112/awesome-sysadmin-data/blob/master/software/apache-ant.yml))
+- use the [go to file](https://github.com/awesome-foss/awesome-sysadmin-data?search=1) feature to open the appropriate file (e.g. [`software/apache-ant.yml`](https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/software/apache-ant.yml))
 - Click the `...` button at the top right of the file view, and click `Delete file`
 - In the `Commit changes` dialog, enter `Remove SOFTWARE_NAME (reason)` as your commit message, additional context in the `extended description` field, select `Create a new branch for this commit and start a pull request.`, and click `Commit Changes`
 
@@ -110,8 +110,8 @@ install             install build tools in a virtualenv
 import              import data from the original list at https://github.com/awesome-foss/awesome-sysadmin
 update_metadata     update metadata from project repositories/API
 awesome_lint        check data against awesome-sysadmin guidelines
-export_markdown     render markdown export from YAML data (https://github.com/Rabenherz112/awesome-sysadmin-markdown)
-export_html         render HTML export from YAML data (https://rabenherz112.github.io/awesome-sysadmin-html/)
+export_markdown     render markdown export from YAML data (https://github.com/awesome-foss/awesome-sysadmin)
+export_html         render HTML export from YAML data (https://sysadmin.awesome-selfhosted.net/)
 push_markdown       commit and push changes to the markdown repository
 push_html           commit and push changes to the HTML site repository (amend previous commit and force-push)
 url_check           check URLs for dead links or other connection problems

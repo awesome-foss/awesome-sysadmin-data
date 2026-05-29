@@ -45,7 +45,7 @@
 
 ## Contributing
 
-Contributing guidelines can be found [here](https://github.com/Rabenherz112/awesome-sysadmin-data/blob/master/CONTRIBUTING.md).
+Contributing guidelines can be found [here](https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/CONTRIBUTING.md).
 
 ## License
 

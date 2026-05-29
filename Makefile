@@ -1,7 +1,7 @@
 # requirements: git bash make python3-pip python3-venv
 SHELL := /bin/bash
-MARKDOWN_REPOSITORY = Rabenherz112/awesome-sysadmin-markdown
-HTML_REPOSITORY = Rabenherz112/awesome-sysadmin-html
+MARKDOWN_REPOSITORY = awesome-foss/awesome-sysadmin
+HTML_REPOSITORY = awesome-foss/awesome-sysadmin-html
 
 .PHONY: install # install build tools in a virtualenv
 install:
@@ -45,10 +45,10 @@ export_html:
 	rm -rf awesome-sysadmin-html/ html/
 	git clone https://github.com/$(HTML_REPOSITORY)
 	mkdir html && source .venv/bin/activate && hecat --config .hecat/export-html.yml
-	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/Rabenherz112/awesome-sysadmin-data/blob/master/LICENSE">CC-BY-SA 4.0</a> license. <a href="https://github.com/Rabenherz112/awesome-sysadmin-html">Source code</a>, <a href="https://github.com/Rabenherz112/awesome-sysadmin-data">raw data</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
+	sed -i 's|<a href="https://github.com/pradyunsg/furo">Furo</a>|<a href="https://github.com/nodiscc/hecat/">hecat</a>, <a href="https://www.sphinx-doc.org/">sphinx</a> and <a href="https://github.com/pradyunsg/furo">furo</a>. Content under <a href="https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/LICENSE">CC-BY-SA 4.0</a> license. <a href="https://github.com/awesome-foss/awesome-sysadmin-html">Source code</a>, <a href="https://github.com/awesome-foss/awesome-sysadmin-data">raw data</a>.|' .venv/lib/python*/site-packages/furo/theme/furo/page.html
 	source .venv/bin/activate && sphinx-build -b html -c .hecat/ html/md/ html/html/
 	rm -rf html/html/.buildinfo html/html/objects.inv html/html/.doctrees awesome-sysadmin-html/*
-	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/Rabenherz112/awesome-sysadmin-html. Raw data is available at https://github.com/Rabenherz112/awesome-sysadmin-data" >| html/html/robots.txt
+	echo "# please do not scrape this site aggressively. Source code is available at https://github.com/awesome-foss/awesome-sysadmin-html. Raw data is available at https://github.com/awesome-foss/awesome-sysadmin-data" >| html/html/robots.txt
 
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:

@@ -11,7 +11,7 @@ concurrency:
 
 jobs:
   check-unmaintained-projects:
-    if: github.repository == 'Rabenherz112/awesome-sysadmin-data'
+    if: github.repository == 'awesome-foss/awesome-sysadmin-data'
     runs-on: ubuntu-latest
     environment: production
     steps:
