@@ -38,7 +38,7 @@ export_markdown:
 	rm -rf awesome-sysadmin/
 	git clone https://github.com/$(MARKDOWN_REPOSITORY)
 	source .venv/bin/activate && hecat --config .hecat/export-markdown.yml
-	cd awesome-sysadmin-markdown && git diff --color=always
+	cd awesome-sysadmin && git diff --color=always
 
 .PHONY: export_html # render HTML export from YAML data (https://sysadmin.awesome-selfhosted.net/)
 export_html:
@@ -53,10 +53,10 @@ export_html:
 .PHONY: push_markdown # commit and push changes to the markdown repository
 push_markdown:
 	$(eval COMMIT_HASH=$(shell git rev-parse --short HEAD))
-	cd awesome-sysadmin-markdown && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
-	cd awesome-sysadmin-markdown && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
-	cd awesome-sysadmin-markdown && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-sysadmin-data $(COMMIT_HASH)")
-	cd awesome-sysadmin-markdown && git push -f
+	cd awesome-sysadmin && git remote set-url origin git@github.com:$(MARKDOWN_REPOSITORY)
+	cd awesome-sysadmin && git config user.name awesome-sysadmin-bot && git config user.email github-actions@github.com
+	cd awesome-sysadmin && git add . && (git diff-index --quiet HEAD || git commit -m "[bot] build markdown from awesome-sysadmin-data $(COMMIT_HASH)")
+	cd awesome-sysadmin && git push -f
 
 .PHONY: push_html # commit and push changes to the HTML site repository (amend previous commit and force-push)
 push_html:
