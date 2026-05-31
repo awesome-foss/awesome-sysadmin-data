@@ -1,0 +1,10 @@
+name: "Synology API"
+website_url: "https://github.com/N4S4/synology-api"
+source_code_url: "https://github.com/N4S4/synology-api"
+description: "Python wrapper for the Synology NAS API, covering DSM 7.x with FileStation, DownloadStation, SurveillanceStation, and many other services."
+licenses:
+  - MIT
+platforms:
+  - Python
+tags:
+  - Miscellaneous
