@@ -1,0 +1,5 @@
+name: SIEM
+description: 'Security Information and Event Management — centralized log analysis, correlation, alerting, and compliance reporting.'
+related_tags:
+  - Log Management
+  - Monitoring & Status Pages
