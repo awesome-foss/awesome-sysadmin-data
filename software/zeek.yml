@@ -1,0 +1,13 @@
+name: Zeek
+website_url: https://zeek.org
+source_code_url: https://github.com/zeek/zeek
+description: 'Powerful framework for network traffic analysis and security monitoring. Focuses on network metadata analysis rather than signature matching.'
+licenses:
+  - BSD-3-Clause
+platforms:
+  - deb
+  - rpm
+  - Docker
+tags:
+  - IDS / IPS
+  - Network Security Monitoring

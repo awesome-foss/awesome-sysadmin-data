@@ -1,0 +1,13 @@
+name: Suricata
+website_url: https://suricata.io
+source_code_url: https://github.com/OISF/suricata
+description: 'Free and open source network threat detection engine capable of real-time intrusion detection (IDS), inline intrusion prevention (IPS), network security monitoring (NSM), and offline pcap processing.'
+licenses:
+  - GPL-2.0
+platforms:
+  - deb
+  - rpm
+  - Docker
+tags:
+  - IDS / IPS
+  - Network Security Monitoring

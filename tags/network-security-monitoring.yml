@@ -1,0 +1,5 @@
+name: Network Security Monitoring
+description: 'Full packet capture, network metadata analysis, and network security monitoring platforms.'
+related_tags:
+  - IDS / IPS
+  - Log Management

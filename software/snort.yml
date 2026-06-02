@@ -1,0 +1,12 @@
+name: Snort
+website_url: https://www.snort.org
+source_code_url: https://github.com/snort3/snort3
+description: 'Network intrusion detection and prevention system capable of real-time traffic analysis and packet logging on IP networks.'
+licenses:
+  - GPL-2.0
+platforms:
+  - deb
+  - rpm
+  - Docker
+tags:
+  - IDS / IPS
