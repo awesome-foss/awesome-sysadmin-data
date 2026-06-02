@@ -1,0 +1,5 @@
+name: Threat Intelligence
+description: 'Threat intelligence platforms — collection, storage, sharing, and enrichment of cyber threat indicators and observables.'
+related_tags:
+  - SIEM
+  - Incident Response
