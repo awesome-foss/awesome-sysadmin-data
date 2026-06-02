@@ -1,0 +1,6 @@
+name: IDS / IPS
+description: 'Intrusion Detection and Prevention Systems — network traffic analysis, threat detection, and inline prevention.'
+related_tags:
+  - Network Security Monitoring
+  - SIEM
+  - Router
