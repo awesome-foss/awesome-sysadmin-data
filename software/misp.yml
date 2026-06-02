@@ -1,0 +1,13 @@
+name: MISP
+website_url: https://www.misp-project.org
+source_code_url: https://github.com/MISP/MISP
+description: 'Open source software solution for collecting, storing, distributing and sharing cyber security indicators and threats. Designed by and for incident analysts and security professionals.'
+licenses:
+  - AGPL-3.0
+platforms:
+  - Docker
+  - PHP
+  - deb
+tags:
+  - Threat Intelligence
+  - Incident Response
