@@ -9,9 +9,6 @@ platforms:
   - PHP
   - Docker
 tags:
-  - Network Monitoring
-  - Asset Management
-  - Network Security
-  - Infrastructure Monitoring
-  - IT Operations
+  - IT Asset Management
+  - Service Discovery
   - Automation
