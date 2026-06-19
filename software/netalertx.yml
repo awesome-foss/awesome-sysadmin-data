@@ -1,0 +1,17 @@
+name: NetAlertX
+website_url: https://netalertx.com/
+source_code_url: https://github.com/netalertx/NetAlertX
+description: Network visibility and asset discovery platform that monitors devices, detects changes, tracks inventory, discovers unauthorized hosts, and provides event-driven alerting, automation, and multi-site management.
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - PHP
+  - Docker
+tags:
+  - Network Monitoring
+  - Asset Management
+  - Network Security
+  - Infrastructure Monitoring
+  - IT Operations
+  - Automation
