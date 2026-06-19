@@ -1,0 +1,10 @@
+name: "vmagent"
+website_url: "https://docs.victoriametrics.com/victoriametrics/vmagent/"
+source_code_url: "https://github.com/VictoriaMetrics/VictoriaMetrics/"
+description: "Lightweight agent for metrics collection and forwarding."
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Metrics & Metric Collection
