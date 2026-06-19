@@ -97,7 +97,6 @@ In addition to guidelines listed in the [Pull Request template](.github/PULL_REQ
 ### What does not qualify
 
 - Software that depends on a specific cloud provider
-- Software that is a desktop, mobile, or command-line application, which relies on a separate file synchronisation/server program
 - Software that requires you to write application code before producing a working end-user application (libraries, SDKs, ...)
 - Software contributions that merely port an existing application to another system (e.g., Dockerization)
 
