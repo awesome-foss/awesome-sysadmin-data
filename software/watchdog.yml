@@ -1,0 +1,10 @@
+name: WatchDog
+website_url: https://usewatchdog.dev/
+source_code_url: https://github.com/sylvester-francis/Watchdog
+description: Infrastructure and uptime monitoring where agents run inside private networks and connect outbound to a central hub, so no inbound ports need to be exposed.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Monitoring & Status Pages
