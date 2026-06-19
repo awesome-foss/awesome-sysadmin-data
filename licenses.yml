@@ -23,6 +23,11 @@
   name: Public Domain/Creative Common Zero 1.0
   url: https://spdx.org/licenses/CC0-1.0.html
 
+- identifier: CC-BY-SA-4.0
+  name: Creative Common Attribution-ShareAlike 4.0 International
+  url: https://spdx.org/licenses/CC-BY-SA-4.0.html
+
+
 - identifier: CDDL-1.0
   name: Common Development and Distribution License 1.0
   url: https://spdx.org/licenses/CDDL-1.0.html
