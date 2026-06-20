@@ -11,3 +11,5 @@ steps:
       exclude_regex:
         - '^https://github.com/[\w\.\-]+/[\w\.\-]+$' # don't check URLs that will be processed by the software_metadata module
         - '^https://gitlab.com/[\w\.\-]+/[\w\.\-]+$' # don't check URLs that will be processed by the software_metadata module
+        - '^https://git.whamcloud.com/$' # Cloudflare DDos protection page, always returns 403
+        - '^https://community.openvpn.net/$' # Cloudflare DDos protection page, always returns 403
