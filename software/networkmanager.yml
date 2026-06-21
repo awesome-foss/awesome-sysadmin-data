@@ -1,7 +1,7 @@
-name: "NETworkManager"
-website_url: "https://borntoberoot.net/NETworkManager/"
-source_code_url: "https://github.com/BornToBeRoot/NETworkManager"
-description: "A powerful open-source tool for managing networks and troubleshooting network problems!"
+name: NETworkManager
+website_url: https://borntoberoot.net/NETworkManager/
+source_code_url: https://github.com/BornToBeRoot/NETworkManager
+description: A powerful open-source tool for managing networks and troubleshooting network problems!
 licenses:
   - GPL-3.0
 platforms:
