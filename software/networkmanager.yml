@@ -7,6 +7,8 @@ licenses:
 platforms:
   - C#
 tags:
+  - Monitoring & Status Pages
+  - Network Configuration Management
   - Remote Desktop Clients
   - Troubleshooting
 depends_3rdparty: false
