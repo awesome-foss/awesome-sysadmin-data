@@ -1,5 +1,5 @@
 name: htop
-description: Interactive process viewer and system monitor for Unix systems
+description: Interactive process viewer and system monitor for Unix systems.
 website: https://htop.dev/
 source_code: https://github.com/htop-dev/htop
 licenses:
