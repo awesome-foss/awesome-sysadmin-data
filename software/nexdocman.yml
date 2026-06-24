@@ -1,0 +1,11 @@
+name: NeXdocMan
+website_url: https://github.com/Arelius-D/NeXdocMan
+description: Docker and Docker Compose automation utility for installation, configuration, updates, and system pruning.
+licenses:
+  - MIT
+platforms:
+  - Shell
+  - Docker
+tags:
+  - Software Containers
+source_code_url: https://github.com/Arelius-D/NeXdocMan
