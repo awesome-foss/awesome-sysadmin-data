@@ -1,0 +1,10 @@
+name: Cerebro
+website_url: https://github.com/Arelius-D/Cerebro
+description: State-monitoring differential backup engine with inline diff logging.
+licenses:
+  - MIT
+platforms:
+  - Shell
+tags:
+  - Backups
+source_code_url: https://github.com/Arelius-D/Cerebro
