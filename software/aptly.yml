@@ -9,11 +9,11 @@ tags:
   - Packaging
 source_code_url: https://github.com/aptly-dev/aptly
 stargazers_count: 2847
-updated_at: '2026-06-24'
+updated_at: '2026-06-25'
 archived: false
 current_release:
-  tag: v1.6.2
-  published_at: '2025-06-09'
+  tag: v1.6.3
+  published_at: '2026-06-25'
 commit_history:
   2025-07: 3
   2025-08: 14
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 2
   2026-04: 42
   2026-05: 11
-  2026-06: 68
+  2026-06: 69

@@ -8,8 +8,8 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/duplicati/duplicati
-stargazers_count: 14681
-updated_at: '2026-06-24'
+stargazers_count: 14684
+updated_at: '2026-06-25'
 archived: false
 current_release:
   tag: v2.3.0.105_canary_2026-06-24
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 229
   2026-04: 130
   2026-05: 178
-  2026-06: 147
+  2026-06: 154

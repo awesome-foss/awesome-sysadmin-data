@@ -8,8 +8,8 @@ platforms:
 tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/octodns/octodns
-stargazers_count: 3725
-updated_at: '2026-06-21'
+stargazers_count: 3726
+updated_at: '2026-06-25'
 archived: false
 commit_history:
   2025-07: 35
@@ -23,4 +23,4 @@ commit_history:
   2026-03: 18
   2026-04: 56
   2026-05: 124
-  2026-06: 33
+  2026-06: 38
