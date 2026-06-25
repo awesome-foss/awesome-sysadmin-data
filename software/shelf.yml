@@ -1,0 +1,11 @@
+name: Shelf
+website_url: https://www.shelf.nu
+source_code_url: https://github.com/Shelf-nu/shelf.nu
+description: Track equipment and physical assets with QR/barcode scanning, check-in/check-out, custody, bookings, and audits, from the web or native iOS/Android apps.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - IT Asset Management
