@@ -1,0 +1,12 @@
+name: Vigil
+website_url: https://github.com/isak-ialogics/vigil
+description: Multi-region uptime monitoring with SSL alerts, heartbeat (dead man's switch) monitoring, broken-link detection, and public status pages.
+licenses:
+  - MIT
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/isak-ialogics/vigil
+demo_url: https://app.vigilmon.online
