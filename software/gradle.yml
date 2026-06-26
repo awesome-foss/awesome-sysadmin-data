@@ -9,12 +9,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/gradle/gradle
-stargazers_count: 18720
-updated_at: '2026-06-25'
+stargazers_count: 18725
+updated_at: '2026-06-26'
 archived: false
 current_release:
-  tag: v9.6.0
-  published_at: '2026-06-19'
+  tag: v9.6.1
+  published_at: '2026-06-26'
 commit_history:
   2025-07: 878
   2025-08: 819
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 1132
   2026-04: 751
   2026-05: 620
-  2026-06: 705
+  2026-06: 749
