@@ -9,7 +9,7 @@ tags:
   - Build and software organization tools
 source_code_url: https://github.com/TACC/Lmod
 stargazers_count: 602
-updated_at: '2026-06-24'
+updated_at: '2026-06-26'
 archived: false
 current_release:
   tag: 9.2.4
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 42
   2026-04: 20
   2026-05: 33
-  2026-06: 39
+  2026-06: 43
