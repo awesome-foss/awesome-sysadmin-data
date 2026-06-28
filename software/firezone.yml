@@ -9,7 +9,7 @@ tags:
   - VPN
 source_code_url: https://github.com/firezone/firezone
 stargazers_count: 8708
-updated_at: '2026-06-27'
+updated_at: '2026-06-28'
 archived: false
 current_release:
   tag: macos-client-1.5.18
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 252
   2026-04: 227
   2026-05: 278
-  2026-06: 264
+  2026-06: 269

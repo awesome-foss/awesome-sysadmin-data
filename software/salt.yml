@@ -9,7 +9,7 @@ tags:
   - Configuration Management
 source_code_url: https://github.com/saltstack/salt
 stargazers_count: 15521
-updated_at: '2026-06-27'
+updated_at: '2026-06-28'
 archived: false
 current_release:
   tag: v3006.26
@@ -24,6 +24,6 @@ commit_history:
   2026-01: 163
   2026-02: 127
   2026-03: 163
-  2026-04: 288
-  2026-05: 499
-  2026-06: 145
+  2026-04: 290
+  2026-05: 501
+  2026-06: 437
