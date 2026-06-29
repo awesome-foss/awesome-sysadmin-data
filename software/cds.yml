@@ -8,8 +8,8 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/ovh/cds
-stargazers_count: 4827
-updated_at: '2026-06-26'
+stargazers_count: 4828
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: v0.54.1
@@ -26,4 +26,4 @@ commit_history:
   2026-03: 29
   2026-04: 10
   2026-05: 12
-  2026-06: 9
+  2026-06: 11

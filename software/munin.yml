@@ -10,7 +10,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/munin-monitoring/munin
 stargazers_count: 2130
-updated_at: '2026-06-22'
+updated_at: '2026-06-29'
 archived: false
 current_release:
   tag: 2.0.75
@@ -27,4 +27,4 @@ commit_history:
   2026-03: 0
   2026-04: 0
   2026-05: 0
-  2026-06: 2
+  2026-06: 4
