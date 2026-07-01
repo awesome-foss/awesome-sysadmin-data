@@ -15,7 +15,6 @@ current_release:
   tag: weekly
   published_at: '2023-07-01'
 commit_history:
-  2025-07: 0
   2025-08: 1
   2025-09: 0
   2025-10: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 6
   2026-05: 2
   2026-06: 0
+  2026-07: 0

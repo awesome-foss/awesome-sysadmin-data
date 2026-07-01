@@ -9,14 +9,13 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/gluster/glusterfs
-stargazers_count: 5202
+stargazers_count: 5203
 updated_at: '2026-02-16'
 archived: false
 current_release:
   tag: v11.2
   published_at: '2025-07-02'
 commit_history:
-  2025-07: 3
   2025-08: 0
   2025-09: 1
   2025-10: 2
@@ -28,3 +27,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

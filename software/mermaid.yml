@@ -9,11 +9,10 @@ platforms:
 tags:
   - Diagramming
 source_code_url: https://github.com/mermaid-js/mermaid-live-editor
-stargazers_count: 6634
+stargazers_count: 6638
 updated_at: '2026-06-19'
 archived: false
 commit_history:
-  2025-07: 4
   2025-08: 32
   2025-09: 19
   2025-10: 5
@@ -25,3 +24,4 @@ commit_history:
   2026-04: 22
   2026-05: 9
   2026-06: 43
+  2026-07: 0

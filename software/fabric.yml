@@ -8,11 +8,10 @@ platforms:
 tags:
   - Deployment Automation
 source_code_url: https://github.com/fabric/fabric
-stargazers_count: 15465
+stargazers_count: 15467
 updated_at: '2026-04-10'
 archived: false
 commit_history:
-  2025-07: 2
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -24,3 +23,4 @@ commit_history:
   2026-04: 15
   2026-05: 0
   2026-06: 0
+  2026-07: 0

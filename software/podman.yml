@@ -8,14 +8,13 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/podman-container-tools/podman
-stargazers_count: 32138
-updated_at: '2026-06-30'
+stargazers_count: 32149
+updated_at: '2026-07-01'
 archived: false
 current_release:
   tag: v5.8.4
   published_at: '2026-06-26'
 commit_history:
-  2025-07: 161
   2025-08: 144
   2025-09: 184
   2025-10: 166
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 223
   2026-04: 209
   2026-05: 213
-  2026-06: 329
+  2026-06: 330
+  2026-07: 3

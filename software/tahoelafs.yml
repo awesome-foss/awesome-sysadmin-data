@@ -15,7 +15,6 @@ current_release:
   tag: tahoe-lafs-1.19.0
   published_at: '2024-11-28'
 commit_history:
-  2025-07: 0
   2025-08: 7
   2025-09: 1
   2025-10: 12
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0
