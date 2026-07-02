@@ -10,12 +10,12 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/tirrenotechnologies/tirreno
 demo_url: https://play.tirreno.com/
-stargazers_count: 1446
-updated_at: '2026-04-07'
+stargazers_count: 1448
+updated_at: '2026-07-02'
 archived: false
 current_release:
-  tag: v0.9.12
-  published_at: '2026-02-12'
+  tag: v0.10.0
+  published_at: '2026-07-02'
 commit_history:
   2025-08: 1
   2025-09: 2
@@ -28,4 +28,4 @@ commit_history:
   2026-04: 1
   2026-05: 0
   2026-06: 0
-  2026-07: 0
+  2026-07: 1

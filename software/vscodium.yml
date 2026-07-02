@@ -8,8 +8,8 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/VSCodium/vscodium
-stargazers_count: 32168
-updated_at: '2026-05-24'
+stargazers_count: 32181
+updated_at: '2026-07-02'
 archived: false
 current_release:
   tag: 1.121.03429
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 33
   2026-05: 31
   2026-06: 0
-  2026-07: 0
+  2026-07: 2
