@@ -10,7 +10,7 @@ tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/gocd/gocd
 stargazers_count: 7411
-updated_at: '2026-07-03'
+updated_at: '2026-07-04'
 archived: false
 current_release:
   tag: 25.4.0
@@ -25,6 +25,6 @@ commit_history:
   2026-02: 112
   2026-03: 170
   2026-04: 125
-  2026-05: 140
+  2026-05: 143
   2026-06: 225
-  2026-07: 21
+  2026-07: 37
