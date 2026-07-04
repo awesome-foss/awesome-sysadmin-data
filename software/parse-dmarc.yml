@@ -9,9 +9,9 @@ platforms:
   - Javascript
   - Docker
 tags:
-  - Communication - Email - Complete Solutions
-  - Analytics
+  - Automation
+  - Mail Client
   - Miscellaneous
-  - Personal Dashboards
+  - Web
 depends_3rdparty: true
 related_software_url: https://github.com/domainaware/parsedmarc
