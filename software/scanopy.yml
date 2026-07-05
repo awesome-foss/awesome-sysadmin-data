@@ -1,0 +1,12 @@
+name: Scanopy
+website_url: https://scanopy.net
+source_code_url: https://github.com/scanopy/scanopy
+description: Automated network documentation tool that discovers hosts, services and topology via SNMP, LLDP, CDP and ARP, and generates interactive network diagrams (physical, logical, workloads, applications).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Diagramming
+demo_url: https://demo.scanopy.net
