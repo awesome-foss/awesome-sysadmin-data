@@ -8,8 +8,8 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/harness/harness
-stargazers_count: 37170
-updated_at: '2026-07-02'
+stargazers_count: 37185
+updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: v2.28.2
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 35
   2026-05: 27
   2026-06: 23
-  2026-07: 6
+  2026-07: 9

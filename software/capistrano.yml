@@ -9,7 +9,7 @@ tags:
   - Deployment Automation
 source_code_url: https://github.com/capistrano/capistrano
 stargazers_count: 12967
-updated_at: '2026-05-16'
+updated_at: '2026-07-07'
 archived: false
 current_release:
   tag: v3.20.1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 1
   2026-05: 2
   2026-06: 0
-  2026-07: 0
+  2026-07: 1
