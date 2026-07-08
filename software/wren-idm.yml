@@ -1,0 +1,10 @@
+name: Wren:IDM
+website_url: https://wrensecurity.org/projects/wrenidm/
+description: Identity management and governance platform for lifecycle management, access governance, and comprehensive auditability.
+licenses:
+  - CDDL-1.0
+platforms:
+  - Java
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/WrenSecurity/wrenidm

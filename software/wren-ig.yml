@@ -1,0 +1,10 @@
+name: Wren:IG
+website_url: https://wrensecurity.org/projects/wrenig/
+description: Identity gateway and reverse proxy enforcing authentication, authorization, and SSO without requiring application changes.
+licenses:
+  - CDDL-1.0
+platforms:
+  - Java
+tags:
+  - Identity Management - Single Sign-On (SSO)
+source_code_url: https://github.com/WrenSecurity/wrenig

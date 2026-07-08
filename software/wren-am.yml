@@ -1,0 +1,10 @@
+name: Wren:AM
+website_url: https://wrensecurity.org/projects/wrenam/
+description: Access management platform providing adaptive authentication, SSO, federation, and fine-grained authorization for web and API resources.
+licenses:
+  - CDDL-1.0
+platforms:
+  - Java
+tags:
+  - Identity Management - Single Sign-On (SSO)
+source_code_url: https://github.com/WrenSecurity/wrenam
