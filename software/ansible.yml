@@ -8,8 +8,8 @@ platforms:
 tags:
   - Configuration Management
 source_code_url: https://github.com/ansible/ansible
-stargazers_count: 69354
-updated_at: '2026-07-01'
+stargazers_count: 69368
+updated_at: '2026-07-08'
 archived: false
 current_release:
   tag: v2.21.2rc1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 45
   2026-05: 27
   2026-06: 28
-  2026-07: 1
+  2026-07: 3
