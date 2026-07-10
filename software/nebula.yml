@@ -9,7 +9,7 @@ tags:
   - VPN
 source_code_url: https://github.com/slackhq/nebula
 stargazers_count: 17499
-updated_at: '2026-07-09'
+updated_at: '2026-07-10'
 archived: false
 current_release:
   tag: v1.10.3
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 25
   2026-05: 33
   2026-06: 17
-  2026-07: 16
+  2026-07: 19
