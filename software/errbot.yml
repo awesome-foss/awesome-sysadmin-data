@@ -9,7 +9,7 @@ tags:
   - ChatOps
 source_code_url: https://github.com/errbotio/errbot
 stargazers_count: 3288
-updated_at: '2026-06-25'
+updated_at: '2026-07-11'
 archived: false
 current_release:
   tag: 6.2.0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 17
   2026-06: 9
-  2026-07: 0
+  2026-07: 1
