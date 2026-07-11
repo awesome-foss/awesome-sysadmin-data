@@ -1,0 +1,10 @@
+name: "Nika"
+website_url: "https://nika.sh"
+source_code_url: "https://github.com/supernovae-st/nika"
+description: "Workflow engine for AI and automation tasks: reviewable YAML DAGs statically checked before execution (schema, permits, cost), tamper-evident traces after."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+tags:
+  - Automation
