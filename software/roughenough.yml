@@ -10,7 +10,7 @@ tags:
   - Time Servers
 source_code_url: https://github.com/int08h/roughenough
 stargazers_count: 147
-updated_at: '2026-06-30'
+updated_at: '2026-07-12'
 archived: false
 current_release:
   tag: 2.0.0-draft14
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 0
   2026-05: 26
   2026-06: 20
-  2026-07: 0
+  2026-07: 4
