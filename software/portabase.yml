@@ -8,12 +8,12 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/Portabase/portabase
-stargazers_count: 1133
-updated_at: '2026-07-11'
+stargazers_count: 1148
+updated_at: '2026-07-13'
 archived: false
 current_release:
-  tag: 1.23.0
-  published_at: '2026-07-11'
+  tag: 1.23.1
+  published_at: '2026-07-13'
 commit_history:
   2025-08: 42
   2025-09: 15
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 22
   2026-05: 99
   2026-06: 102
-  2026-07: 73
+  2026-07: 85

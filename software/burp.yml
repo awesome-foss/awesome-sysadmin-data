@@ -9,7 +9,7 @@ tags:
   - Backups
 source_code_url: https://github.com/grke/burp
 stargazers_count: 504
-updated_at: '2026-05-30'
+updated_at: '2026-07-13'
 archived: false
 current_release:
   tag: 3.3.0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 1
   2026-06: 0
-  2026-07: 0
+  2026-07: 2

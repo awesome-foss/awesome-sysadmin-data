@@ -8,8 +8,8 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/micro-editor/micro
-stargazers_count: 29015
-updated_at: '2026-07-12'
+stargazers_count: 29020
+updated_at: '2026-07-13'
 archived: false
 current_release:
   tag: nightly
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 8
   2026-05: 7
   2026-06: 4
-  2026-07: 3
+  2026-07: 4

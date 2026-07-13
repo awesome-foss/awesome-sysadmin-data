@@ -9,11 +9,11 @@ tags:
   - Automation
 source_code_url: https://github.com/apache/maven
 stargazers_count: 5369
-updated_at: '2026-07-12'
+updated_at: '2026-07-13'
 archived: false
 current_release:
-  tag: maven-3.9.16
-  published_at: '2026-05-17'
+  tag: maven-3.10.0-rc-1
+  published_at: '2026-07-13'
 commit_history:
   2025-08: 27
   2025-09: 38
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 23
   2026-05: 51
   2026-06: 105
-  2026-07: 26
+  2026-07: 27

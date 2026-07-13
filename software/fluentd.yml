@@ -8,8 +8,8 @@ platforms:
 tags:
   - Log Management
 source_code_url: https://github.com/fluent/fluentd
-stargazers_count: 13551
-updated_at: '2026-07-09'
+stargazers_count: 13554
+updated_at: '2026-07-13'
 archived: false
 current_release:
   tag: v1.19.3
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 17
   2026-05: 9
   2026-06: 17
-  2026-07: 10
+  2026-07: 17
