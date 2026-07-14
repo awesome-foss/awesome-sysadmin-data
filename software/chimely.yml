@@ -1,0 +1,11 @@
+name: Chimely
+website_url: https://chimely.dev
+description: Open-source, self-hostable in-app notification inbox infrastructure (Rust + Postgres + Redis) with a drop-in <Inbox /> React component. Self-hosted alternative to Knock, Courier, MagicBell, and Novu.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Rust
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/dodopayments/chimely
