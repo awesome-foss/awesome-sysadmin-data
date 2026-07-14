@@ -9,7 +9,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/phpsysinfo/phpsysinfo
 stargazers_count: 1419
-updated_at: '2026-07-12'
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v3.4.6
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 4
   2026-06: 11
-  2026-07: 2
+  2026-07: 4

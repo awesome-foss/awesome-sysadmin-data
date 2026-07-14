@@ -8,8 +8,8 @@ platforms:
 tags:
   - Troubleshooting
 source_code_url: https://github.com/mitmproxy/mitmproxy
-stargazers_count: 44281
-updated_at: '2026-07-03'
+stargazers_count: 44302
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: v12.2.3
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 24
   2026-05: 24
   2026-06: 18
-  2026-07: 7
+  2026-07: 9

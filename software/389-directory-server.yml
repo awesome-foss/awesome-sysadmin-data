@@ -9,7 +9,7 @@ tags:
   - Identity Management - LDAP
 source_code_url: https://github.com/389ds/389-ds-base
 stargazers_count: 289
-updated_at: '2026-07-13'
+updated_at: '2026-07-14'
 archived: false
 current_release:
   tag: 389-ds-base-3.2.2
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 46
   2026-05: 36
   2026-06: 38
-  2026-07: 15
+  2026-07: 16
