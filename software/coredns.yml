@@ -9,7 +9,7 @@ tags:
   - DNS - Servers
 source_code_url: https://github.com/coredns/coredns
 stargazers_count: 14182
-updated_at: '2026-07-14'
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: v1.14.6
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 60
   2026-05: 42
   2026-06: 51
-  2026-07: 58
+  2026-07: 77

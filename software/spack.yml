@@ -10,7 +10,7 @@ tags:
   - Build and software organization tools
 source_code_url: https://github.com/spack/spack
 stargazers_count: 5093
-updated_at: '2026-07-14'
+updated_at: '2026-07-15'
 archived: false
 current_release:
   tag: v1.2.1
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 112
   2026-05: 56
   2026-06: 107
-  2026-07: 57
+  2026-07: 69
