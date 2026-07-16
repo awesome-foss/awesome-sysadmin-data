@@ -9,7 +9,7 @@ tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/oetiker/rrdtool-1.x
 stargazers_count: 1106
-updated_at: '2026-06-01'
+updated_at: '2026-07-16'
 archived: false
 current_release:
   tag: v1.10.3
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 11
   2026-05: 72
   2026-06: 1
-  2026-07: 0
+  2026-07: 3

@@ -9,7 +9,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/Cacti/cacti
 stargazers_count: 1842
-updated_at: '2026-07-15'
+updated_at: '2026-07-16'
 archived: false
 current_release:
   tag: release/1.2.31
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 20
   2026-05: 21
   2026-06: 35
-  2026-07: 28
+  2026-07: 29
