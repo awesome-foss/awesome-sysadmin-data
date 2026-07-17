@@ -8,8 +8,8 @@ platforms:
 tags:
   - Identity Management - LDAP
 source_code_url: https://github.com/FreeRADIUS/freeradius-server
-stargazers_count: 2554
-updated_at: '2026-07-16'
+stargazers_count: 2555
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: release_3_2_10
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 219
   2026-05: 392
   2026-06: 150
-  2026-07: 64
+  2026-07: 84

@@ -9,7 +9,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/Icinga/icinga2
 stargazers_count: 2217
-updated_at: '2026-07-15'
+updated_at: '2026-07-17'
 archived: false
 current_release:
   tag: v2.16.4
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 104
   2026-05: 14
   2026-06: 46
-  2026-07: 38
+  2026-07: 42
