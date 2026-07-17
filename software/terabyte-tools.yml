@@ -1,0 +1,10 @@
+name: terabyte.tools
+website_url: https://terabyte.tools
+description: Client-side calculators for infrastructure sizing (backup retention, RAID/ZFS rebuild risk, IPv4 subnetting, Kubernetes nodes, VM consolidation, cloud vs on-premise costs).
+licenses:
+  - MIT
+platforms:
+  - JavaScript
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/Capablanca-Digital/terabyte-tools
