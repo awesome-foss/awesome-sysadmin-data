@@ -8,8 +8,8 @@ platforms:
 tags:
   - Queuing
 source_code_url: https://github.com/apache/activemq
-stargazers_count: 2442
-updated_at: '2026-07-17'
+stargazers_count: 2443
+updated_at: '2026-07-21'
 archived: false
 current_release:
   tag: activemq-6.2.7
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 41
   2026-05: 38
   2026-06: 43
-  2026-07: 33
+  2026-07: 35
