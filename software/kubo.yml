@@ -9,12 +9,12 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/ipfs/kubo
-stargazers_count: 17082
+stargazers_count: 17083
 updated_at: '2026-07-22'
 archived: false
 current_release:
-  tag: v0.42.0
-  published_at: '2026-06-08'
+  tag: v0.43.0-rc1
+  published_at: '2026-07-23'
 commit_history:
   2025-08: 60
   2025-09: 46

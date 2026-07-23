@@ -10,11 +10,11 @@ tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/terrateamio/terrateam
 stargazers_count: 1247
-updated_at: '2026-07-22'
+updated_at: '2026-07-23'
 archived: false
 current_release:
-  tag: 20260722-1237-d487e38
-  published_at: '2026-07-22'
+  tag: 20260723-2015-4ef8274
+  published_at: '2026-07-23'
 commit_history:
   2025-08: 149
   2025-09: 150
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 46
   2026-05: 69
   2026-06: 35
-  2026-07: 37
+  2026-07: 54

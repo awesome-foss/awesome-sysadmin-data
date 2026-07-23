@@ -8,8 +8,8 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/woodpecker-ci/woodpecker
-stargazers_count: 7489
-updated_at: '2026-07-22'
+stargazers_count: 7494
+updated_at: '2026-07-23'
 archived: false
 current_release:
   tag: v3.16.0
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 122
   2026-05: 143
   2026-06: 104
-  2026-07: 62
+  2026-07: 63
