@@ -10,7 +10,7 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/FOGProject/fogproject
 stargazers_count: 1608
-updated_at: '2026-07-11'
+updated_at: '2026-07-26'
 archived: false
 current_release:
   tag: 1.5.10.1903
@@ -27,4 +27,4 @@ commit_history:
   2026-04: 2
   2026-05: 31
   2026-06: 34
-  2026-07: 11
+  2026-07: 14

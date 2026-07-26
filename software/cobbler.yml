@@ -9,7 +9,7 @@ tags:
   - Deployment Automation
 source_code_url: https://github.com/cobbler/cobbler
 stargazers_count: 2762
-updated_at: '2026-07-16'
+updated_at: '2026-07-26'
 archived: false
 current_release:
   tag: v4.0.0a4
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 24
   2026-05: 23
   2026-06: 45
-  2026-07: 25
+  2026-07: 32

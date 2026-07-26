@@ -8,8 +8,8 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/borgbackup/borg
-stargazers_count: 13539
-updated_at: '2026-07-24'
+stargazers_count: 13543
+updated_at: '2026-07-26'
 archived: false
 current_release:
   tag: 2.0.0b22
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 21
   2026-05: 161
   2026-06: 271
-  2026-07: 185
+  2026-07: 220
