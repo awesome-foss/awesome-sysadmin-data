@@ -9,7 +9,7 @@ tags:
   - Backups
 source_code_url: https://github.com/shieldproject/shield
 stargazers_count: 399
-updated_at: '2026-05-04'
+updated_at: '2026-07-27'
 archived: false
 current_release:
   tag: v9.0.1
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 1
   2026-06: 0
-  2026-07: 0
+  2026-07: 10
