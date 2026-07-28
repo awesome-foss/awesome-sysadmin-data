@@ -8,14 +8,13 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/werf/werf
-stargazers_count: 4696
-updated_at: '2026-06-23'
+stargazers_count: 4713
+updated_at: '2026-07-27'
 archived: false
 current_release:
-  tag: v2.73.0
-  published_at: '2026-06-23'
+  tag: v2.75.2
+  published_at: '2026-07-27'
 commit_history:
-  2025-07: 102
   2025-08: 34
   2025-09: 75
   2025-10: 90
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 57
   2026-04: 76
   2026-05: 32
-  2026-06: 36
+  2026-06: 42
+  2026-07: 31

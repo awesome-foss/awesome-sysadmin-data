@@ -8,14 +8,13 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/NagiosEnterprises/nagioscore
-stargazers_count: 2016
+stargazers_count: 2032
 updated_at: '2026-06-02'
 archived: false
 current_release:
   tag: nagios-4.5.13
   published_at: '2026-05-28'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 21
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 13
   2026-05: 2
   2026-06: 2
+  2026-07: 0

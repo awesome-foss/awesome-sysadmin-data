@@ -10,14 +10,13 @@ tags:
   - IT Asset Management
 source_code_url: https://github.com/opendcim/openDCIM
 demo_url: https://opendcim.org/demo.html
-stargazers_count: 360
+stargazers_count: 362
 updated_at: '2026-06-11'
 archived: false
 current_release:
   tag: '23.04'
   published_at: '2023-10-15'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 5
@@ -29,3 +28,4 @@ commit_history:
   2026-04: 1
   2026-05: 0
   2026-06: 8
+  2026-07: 0

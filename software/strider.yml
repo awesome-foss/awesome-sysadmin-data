@@ -8,14 +8,13 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/Strider-CD/strider
-stargazers_count: 4570
+stargazers_count: 4571
 updated_at: '2021-10-23'
 archived: false
 current_release:
   tag: v1.9.5
   published_at: '2017-02-20'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Queuing
 source_code_url: https://github.com/nsqio/nsq
-stargazers_count: 25739
-updated_at: '2025-06-29'
+stargazers_count: 25761
+updated_at: '2026-07-20'
 archived: false
 current_release:
   tag: v1.3.0
   published_at: '2023-12-27'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 3

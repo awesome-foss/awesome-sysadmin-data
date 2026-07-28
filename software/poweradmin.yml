@@ -8,14 +8,13 @@ platforms:
 tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/poweradmin/poweradmin
-stargazers_count: 880
-updated_at: '2026-06-23'
+stargazers_count: 894
+updated_at: '2026-07-27'
 archived: false
 current_release:
-  tag: v4.3.3
-  published_at: '2026-06-07'
+  tag: v4.4.0
+  published_at: '2026-07-23'
 commit_history:
-  2025-07: 77
   2025-08: 70
   2025-09: 98
   2025-10: 106
@@ -26,4 +25,5 @@ commit_history:
   2026-03: 309
   2026-04: 282
   2026-05: 94
-  2026-06: 34
+  2026-06: 37
+  2026-07: 89

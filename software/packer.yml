@@ -8,14 +8,13 @@ platforms:
 tags:
   - Virtualization
 source_code_url: https://github.com/hashicorp/packer
-stargazers_count: 15713
-updated_at: '2026-06-03'
+stargazers_count: 15743
+updated_at: '2026-07-24'
 archived: false
 current_release:
-  tag: v1.15.4
-  published_at: '2026-06-03'
+  tag: v1.16.0
+  published_at: '2026-07-24'
 commit_history:
-  2025-07: 8
   2025-08: 13
   2025-09: 20
   2025-10: 4
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 19
   2026-05: 3
   2026-06: 12
+  2026-07: 16

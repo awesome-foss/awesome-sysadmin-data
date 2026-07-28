@@ -8,14 +8,13 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/phpservermon/phpservermon
-stargazers_count: 2190
+stargazers_count: 2189
 updated_at: '2025-04-23'
 archived: false
 current_release:
   tag: v3.5.2
   published_at: '2020-08-12'
 commit_history:
-  2025-07: 0
   2025-08: 0
   2025-09: 0
   2025-10: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-04: 0
   2026-05: 0
   2026-06: 0
+  2026-07: 0

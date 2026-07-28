@@ -9,14 +9,13 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/bareos/bareos
-stargazers_count: 1220
-updated_at: '2026-06-18'
+stargazers_count: 1233
+updated_at: '2026-07-27'
 archived: false
 current_release:
-  tag: Release/25.0.3
-  published_at: '2026-04-01'
+  tag: Release/25.0.4
+  published_at: '2026-07-02'
 commit_history:
-  2025-07: 66
   2025-08: 35
   2025-09: 94
   2025-10: 173
@@ -27,4 +26,5 @@ commit_history:
   2026-03: 129
   2026-04: 216
   2026-05: 100
-  2026-06: 94
+  2026-06: 117
+  2026-07: 510
