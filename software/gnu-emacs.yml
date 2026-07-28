@@ -8,7 +8,7 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/emacs-mirror/emacs
-stargazers_count: 5127
+stargazers_count: 5126
 updated_at: '2026-07-27'
 archived: false
 commit_history:
@@ -23,4 +23,4 @@ commit_history:
   2026-04: 328
   2026-05: 368
   2026-06: 304
-  2026-07: 209
+  2026-07: 211
