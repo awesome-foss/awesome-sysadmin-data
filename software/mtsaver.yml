@@ -1,19 +1,10 @@
-
-# software name
 name: "mtsaver"
-# URL of the software project's homepage
 website_url: "https://github.com/mitoteam/mtsaver"
-# URL where the full source code of the program can be downloaded
 source_code_url: "https://github.com/mitoteam/mtsaver"
-# description of what the software does, shorter than 250 characters, sentence case
 description: "Simple differential backup archives command-line tool. 7-Zip archiver based."
-# list of license identifiers, see https://github.com/awesome-foss/awesome-sysadmin-data/blob/master/licenses.yml for the full list of licenses
 licenses:
   - MIT
-# list of languages/platforms, see https://github.com/awesome-foss/awesome-sysadmin-data/tree/master/platforms for the full list of platforms
 platforms:
   - Go
-# list of tags (categories), see https://github.com/awesome-foss/awesome-sysadmin-data/tree/master/tags for the full list of tags
 tags:
   - Backups
-
