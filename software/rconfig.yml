@@ -9,7 +9,7 @@ tags:
   - Network Configuration Management
 source_code_url: https://github.com/rconfig/rconfig
 stargazers_count: 193
-updated_at: '2026-07-17'
+updated_at: '2026-07-29'
 archived: false
 commit_history:
   2025-08: 0
@@ -23,7 +23,7 @@ commit_history:
   2026-04: 11
   2026-05: 52
   2026-06: 61
-  2026-07: 7
+  2026-07: 9
 current_release:
-  tag: core-8.2.8
-  published_at: '2026-07-17'
+  tag: core-8.2.9
+  published_at: '2026-07-29'

@@ -9,7 +9,7 @@ tags:
   - DNS - Servers
 source_code_url: https://github.com/NLnetLabs/nsd
 stargazers_count: 564
-updated_at: '2026-07-16'
+updated_at: '2026-07-29'
 archived: false
 current_release:
   tag: NSD_4_15_0_REL
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 3
   2026-05: 10
   2026-06: 99
-  2026-07: 46
+  2026-07: 47
