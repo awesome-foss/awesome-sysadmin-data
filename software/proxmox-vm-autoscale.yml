@@ -1,6 +1,5 @@
 name: Proxmox VM Autoscale
 website_url: https://github.com/fabriziosalmi/proxmox-vm-autoscale
-source_code_url: https://github.com/fabriziosalmi/proxmox-vm-autoscale
 description: Automatically scale virtual machine resources on Proxmox VE hosts.
 licenses:
   - MIT
@@ -8,3 +7,4 @@ platforms:
   - Python
 tags:
   - Virtualization
+source_code_url: https://github.com/fabriziosalmi/proxmox-vm-autoscale
