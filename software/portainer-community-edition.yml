@@ -8,12 +8,12 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/portainer/portainer
-stargazers_count: 38081
-updated_at: '2026-07-28'
+stargazers_count: 38088
+updated_at: '2026-07-30'
 archived: false
 current_release:
-  tag: 2.39.5
-  published_at: '2026-07-13'
+  tag: 2.44.0
+  published_at: '2026-07-30'
 commit_history:
   2025-08: 47
   2025-09: 44
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 108
   2026-05: 88
   2026-06: 107
-  2026-07: 92
+  2026-07: 95
