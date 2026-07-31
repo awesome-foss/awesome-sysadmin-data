@@ -8,12 +8,12 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/rclone/rclone
-stargazers_count: 58828
-updated_at: '2026-07-30'
+stargazers_count: 58855
+updated_at: '2026-07-31'
 archived: false
 current_release:
-  tag: v1.74.4
-  published_at: '2026-07-08'
+  tag: v1.75.0
+  published_at: '2026-07-31'
 commit_history:
   2025-08: 85
   2025-09: 79
@@ -26,4 +26,4 @@ commit_history:
   2026-04: 116
   2026-05: 105
   2026-06: 65
-  2026-07: 194
+  2026-07: 219

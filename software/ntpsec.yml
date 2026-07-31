@@ -9,8 +9,8 @@ tags:
   - Time Servers
 source_code_url: https://gitlab.com/NTPsec/ntpsec
 stargazers_count: 157
-updated_at: '2026-07-18'
+updated_at: '2026-07-31'
 archived: false
 current_release:
-  tag: NTPsec_1_2_4
-  published_at: '2025-04-19'
+  tag: NTPsec_1_2_5
+  published_at: '2026-07-30'

@@ -8,7 +8,7 @@ platforms:
 tags:
   - Service Discovery
 source_code_url: https://github.com/hashicorp/consul
-stargazers_count: 30010
+stargazers_count: 30011
 updated_at: '2026-07-30'
 archived: false
 current_release:
