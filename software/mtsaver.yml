@@ -1,7 +1,7 @@
-name: "mtsaver"
-website_url: "https://github.com/mitoteam/mtsaver"
-source_code_url: "https://github.com/mitoteam/mtsaver"
-description: "Simple differential backup archives command-line tool. 7-Zip archiver based."
+name: mtsaver
+website_url: https://github.com/mitoteam/mtsaver
+source_code_url: https://github.com/mitoteam/mtsaver
+description: Simple differential backup archives command-line tool. 7-Zip archiver based.
 licenses:
   - MIT
 platforms:
