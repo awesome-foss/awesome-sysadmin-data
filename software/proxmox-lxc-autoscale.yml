@@ -5,6 +5,7 @@ licenses:
   - MIT
 platforms:
   - Python
+  - Docker
 tags:
   - Virtualization
 source_code_url: https://github.com/fabriziosalmi/proxmox-lxc-autoscale
