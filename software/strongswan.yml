@@ -8,14 +8,13 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/strongswan/strongswan
-stargazers_count: 2927
+stargazers_count: 2928
 updated_at: '2026-07-31'
 archived: false
 current_release:
   tag: 6.0.7
   published_at: '2026-06-08'
 commit_history:
-  2025-08: 29
   2025-09: 46
   2025-10: 34
   2025-11: 12
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 54
   2026-06: 17
   2026-07: 195
+  2026-08: 0

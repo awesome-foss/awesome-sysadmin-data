@@ -10,14 +10,13 @@ tags:
   - IT Asset Management
 source_code_url: https://github.com/allegro/ralph
 demo_url: https://github.com/allegro/ralph#live-demo
-stargazers_count: 2511
+stargazers_count: 2510
 updated_at: '2026-07-29'
 archived: false
 current_release:
   tag: '20260729.1'
   published_at: '2026-07-29'
 commit_history:
-  2025-08: 12
   2025-09: 2
   2025-10: 20
   2025-11: 16
@@ -29,3 +28,4 @@ commit_history:
   2026-05: 9
   2026-06: 20
   2026-07: 29
+  2026-08: 0

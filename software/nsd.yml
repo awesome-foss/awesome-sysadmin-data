@@ -15,7 +15,6 @@ current_release:
   tag: NSD_4_15_0_REL
   published_at: '2026-07-07'
 commit_history:
-  2025-08: 33
   2025-09: 23
   2025-10: 2
   2025-11: 40
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 10
   2026-06: 99
   2026-07: 47
+  2026-08: 0

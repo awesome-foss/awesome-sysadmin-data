@@ -9,13 +9,12 @@ tags:
   - Control Panels
 source_code_url: https://github.com/webmin/webmin
 stargazers_count: 5987
-updated_at: '2026-07-31'
+updated_at: '2026-08-01'
 archived: false
 current_release:
   tag: '2.653'
   published_at: '2026-07-27'
 commit_history:
-  2025-08: 42
   2025-09: 91
   2025-10: 76
   2025-11: 44
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 267
   2026-06: 161
   2026-07: 87
+  2026-08: 8

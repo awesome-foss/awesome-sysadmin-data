@@ -8,14 +8,13 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/buildbot/buildbot
-stargazers_count: 5459
+stargazers_count: 5460
 updated_at: '2026-06-19'
 archived: false
 current_release:
   tag: v4.3.0
   published_at: '2025-05-12'
 commit_history:
-  2025-08: 1
   2025-09: 3
   2025-10: 5
   2025-11: 6
@@ -27,3 +26,4 @@ commit_history:
   2026-05: 0
   2026-06: 5
   2026-07: 0
+  2026-08: 0
