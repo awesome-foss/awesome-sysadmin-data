@@ -9,7 +9,7 @@ tags:
   - Queuing
 source_code_url: https://github.com/gearman/gearmand
 stargazers_count: 762
-updated_at: '2026-07-22'
+updated_at: '2026-08-02'
 archived: false
 current_release:
   tag: 2.0.0
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 1
   2026-06: 49
   2026-07: 50
-  2026-08: 0
+  2026-08: 8

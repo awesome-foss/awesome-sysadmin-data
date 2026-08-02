@@ -8,8 +8,8 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/lxc/incus
-stargazers_count: 5822
-updated_at: '2026-08-01'
+stargazers_count: 5828
+updated_at: '2026-08-02'
 archived: false
 current_release:
   tag: v7.3.0
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 794
   2026-06: 480
   2026-07: 596
-  2026-08: 2
+  2026-08: 11
