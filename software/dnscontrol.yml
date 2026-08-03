@@ -9,12 +9,12 @@ platforms:
 tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/DNSControl/dnscontrol
-stargazers_count: 3893
+stargazers_count: 3894
 updated_at: '2026-08-01'
 archived: false
 current_release:
-  tag: v5.0.0-rc3
-  published_at: '2026-08-01'
+  tag: v5.0.0-rc4
+  published_at: '2026-08-03'
 commit_history:
   2025-09: 14
   2025-10: 12

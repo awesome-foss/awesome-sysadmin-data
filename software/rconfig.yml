@@ -8,8 +8,8 @@ platforms:
 tags:
   - Network Configuration Management
 source_code_url: https://github.com/rconfig/rconfig
-stargazers_count: 195
-updated_at: '2026-08-01'
+stargazers_count: 196
+updated_at: '2026-08-03'
 archived: false
 commit_history:
   2025-09: 0
@@ -22,8 +22,8 @@ commit_history:
   2026-04: 11
   2026-05: 52
   2026-06: 61
-  2026-07: 18
-  2026-08: 10
+  2026-07: 22
+  2026-08: 18
 current_release:
-  tag: core-8.2.10
-  published_at: '2026-08-01'
+  tag: core-8.2.11
+  published_at: '2026-08-03'

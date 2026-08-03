@@ -8,8 +8,8 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/nicolargo/glances
-stargazers_count: 33226
-updated_at: '2026-08-01'
+stargazers_count: 33243
+updated_at: '2026-08-03'
 archived: false
 current_release:
   tag: v4.5.6
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 75
   2026-06: 16
   2026-07: 32
-  2026-08: 12
+  2026-08: 14
