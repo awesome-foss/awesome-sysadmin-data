@@ -1,0 +1,11 @@
+name: terraform-provider-seerr
+website_url: https://github.com/Josh-Archer/terraform-provider-seerr
+source_code_url: https://github.com/Josh-Archer/terraform-provider-seerr
+description: Terraform and OpenTofu provider for managing Seerr instances, users, permissions, and media server settings.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - Configuration Management
+  - Deployment Automation
