@@ -1,0 +1,12 @@
+name: Pulse
+website_url: https://pulserelay.pro/
+description: Real-time monitoring for Proxmox VE, Proxmox Backup Server, Docker, Kubernetes, TrueNAS and vSphere, with alerting, backup visibility and per-client workspaces for service providers.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/rcourtman/Pulse
+demo_url: https://demo.pulserelay.pro/
