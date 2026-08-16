@@ -11,7 +11,7 @@ tags:
 source_code_url: https://github.com/opendcim/openDCIM
 demo_url: https://opendcim.org/demo.html
 stargazers_count: 362
-updated_at: '2026-06-11'
+updated_at: '2026-08-14'
 archived: false
 current_release:
   tag: '23.04'
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 0
   2026-06: 8
   2026-07: 0
-  2026-08: 0
+  2026-08: 4

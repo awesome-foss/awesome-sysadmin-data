@@ -8,12 +8,12 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/shieldproject/shield
-stargazers_count: 400
+stargazers_count: 401
 updated_at: '2026-07-28'
 archived: false
 current_release:
-  tag: v9.0.1
-  published_at: '2026-05-04'
+  tag: v9.0.2
+  published_at: '2026-08-11'
 commit_history:
   2025-09: 2
   2025-10: 0

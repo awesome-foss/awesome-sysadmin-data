@@ -8,8 +8,8 @@ platforms:
 tags:
   - Network Configuration Management
 source_code_url: https://github.com/GNS3/gns3-gui/
-stargazers_count: 2599
-updated_at: '2026-07-30'
+stargazers_count: 2607
+updated_at: '2026-08-09'
 archived: false
 current_release:
   tag: v2.2.61
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 8
   2026-06: 0
   2026-07: 13
-  2026-08: 0
+  2026-08: 4
