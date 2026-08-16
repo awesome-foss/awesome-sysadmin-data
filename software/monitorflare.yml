@@ -1,0 +1,10 @@
+name: MonitorFlare
+website_url: https://monitorflare.csr.plus/
+description: Zero-cost uptime monitoring and public status page running entirely on the Cloudflare free tier, with 9 notification channels and 9 languages.
+licenses:
+  - MIT
+platforms:
+  - typescript
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/xusteve/MonitorFlare
