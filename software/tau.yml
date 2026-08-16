@@ -10,8 +10,8 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/taubyte/tau
-stargazers_count: 5130
-updated_at: '2026-08-08'
+stargazers_count: 5132
+updated_at: '2026-08-16'
 archived: false
 current_release:
   tag: v1.1.10
@@ -28,4 +28,4 @@ commit_history:
   2026-05: 1
   2026-06: 1
   2026-07: 65
-  2026-08: 8
+  2026-08: 10

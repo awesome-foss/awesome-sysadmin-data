@@ -8,8 +8,8 @@ platforms:
 tags:
   - Build and software organization tools
 source_code_url: https://github.com/envmodules/modules
-stargazers_count: 861
-updated_at: '2026-08-15'
+stargazers_count: 862
+updated_at: '2026-08-16'
 archived: false
 current_release:
   tag: v5.6.1
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 10
   2026-06: 47
   2026-07: 38
-  2026-08: 91
+  2026-08: 94
