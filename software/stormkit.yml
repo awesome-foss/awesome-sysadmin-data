@@ -1,0 +1,11 @@
+name: Stormkit
+website_url: https://www.stormkit.io/
+description: Deployment platform for web applications in any language, with per-branch preview environments, custom domains and automatic TLS, a built-in PostgreSQL database, end-user authentication, transactional email and scheduled jobs.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - PaaS
+source_code_url: https://github.com/stormkit-io/stormkit-io
