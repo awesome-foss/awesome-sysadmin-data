@@ -1,0 +1,10 @@
+name: mokey
+website_url: https://github.com/neverlless/mokey
+description: Self-service account management portal for FreeIPA (fork of ubccr/mokey) — signup, password reset, TOTP and passkey enrollment, OIDC via Hydra, and an admin panel.
+licenses:
+  - BSD-3-Clause
+platforms:
+  - Go
+tags:
+  - Identity Management - LDAP
+source_code_url: https://github.com/neverlless/mokey
