@@ -8,8 +8,8 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/prometheus/prometheus
-stargazers_count: 65718
-updated_at: '2026-08-15'
+stargazers_count: 65699
+updated_at: '2026-08-17'
 archived: false
 current_release:
   tag: v3.14.0-rc.0
@@ -24,6 +24,6 @@ commit_history:
   2026-03: 203
   2026-04: 170
   2026-05: 214
-  2026-06: 277
-  2026-07: 225
-  2026-08: 117
+  2026-06: 278
+  2026-07: 229
+  2026-08: 134
