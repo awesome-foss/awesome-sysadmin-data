@@ -9,12 +9,12 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/stategraph/stategraph
-stargazers_count: 1262
-updated_at: '2026-08-14'
+stargazers_count: 1263
+updated_at: '2026-08-18'
 archived: false
 current_release:
-  tag: 20260814-1442-a153885
-  published_at: '2026-08-14'
+  tag: 20260818-1957-2c7b076
+  published_at: '2026-08-18'
 commit_history:
   2025-09: 150
   2025-10: 64
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 69
   2026-06: 35
   2026-07: 91
-  2026-08: 89
+  2026-08: 101
