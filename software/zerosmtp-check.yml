@@ -1,0 +1,10 @@
+name: zerosmtp-check
+website_url: https://github.com/msgwing/ZeroSMTP/tree/main/packages/zerosmtp-check
+description: Checks whether outbound SMTP actually works from a machine - TCP reachability, STARTTLS and implicit TLS, and whether AUTH is offered - against any host and port. Runs without installation and prints JSON for monitoring jobs.
+licenses:
+  - MIT
+platforms:
+  - Nodejs
+tags:
+  - Troubleshooting
+source_code_url: https://github.com/msgwing/ZeroSMTP
