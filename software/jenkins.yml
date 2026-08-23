@@ -8,8 +8,8 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/jenkinsci/jenkins/
-stargazers_count: 26481
-updated_at: '2026-08-22'
+stargazers_count: 26480
+updated_at: '2026-08-23'
 archived: false
 current_release:
   tag: jenkins-2.578
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 82
   2026-06: 97
   2026-07: 98
-  2026-08: 66
+  2026-08: 72

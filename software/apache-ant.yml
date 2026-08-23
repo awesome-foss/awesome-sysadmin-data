@@ -8,8 +8,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/apache/ant
-stargazers_count: 470
-updated_at: '2026-08-22'
+stargazers_count: 469
+updated_at: '2026-08-23'
 archived: false
 commit_history:
   2025-09: 0
@@ -23,4 +23,4 @@ commit_history:
   2026-05: 7
   2026-06: 3
   2026-07: 40
-  2026-08: 9
+  2026-08: 12
