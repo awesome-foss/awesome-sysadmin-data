@@ -10,7 +10,7 @@ tags:
 source_code_url: https://github.com/concourse/concourse
 demo_url: https://ci.concourse-ci.org/
 stargazers_count: 7893
-updated_at: '2026-08-21'
+updated_at: '2026-08-24'
 archived: false
 current_release:
   tag: v8.3.0
@@ -27,4 +27,4 @@ commit_history:
   2026-05: 53
   2026-06: 64
   2026-07: 113
-  2026-08: 34
+  2026-08: 36
