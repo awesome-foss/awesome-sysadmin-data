@@ -8,8 +8,8 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/vim/vim
-stargazers_count: 40791
-updated_at: '2026-08-23'
+stargazers_count: 40798
+updated_at: '2026-08-25'
 archived: false
 commit_history:
   2025-09: 195
@@ -23,4 +23,4 @@ commit_history:
   2026-05: 230
   2026-06: 240
   2026-07: 181
-  2026-08: 169
+  2026-08: 181
