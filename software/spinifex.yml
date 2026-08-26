@@ -1,0 +1,10 @@
+name: Spinifex
+website_url: https://mulgadc.com
+source_code_url: https://github.com/mulgadc/spinifex
+description: AWS-compatible cloud platform implementing the EC2, S3, IAM, and EKS API surface on standard Linux bare metal, so existing Terraform, eksctl, and AWS CLI tooling works on hardware you own without modification.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+tags:
+  - Deployment Automation
