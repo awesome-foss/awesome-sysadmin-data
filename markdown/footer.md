@@ -16,7 +16,7 @@
   - [/r/Linux](https://www.reddit.com/r/linux) - News and information about Linux.
   - [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)
   - [/r/SysAdmin](https://www.reddit.com/r/sysadmin/)
-- [Spiceworks Community](https://community.spiceworks.com/start) - General enterprise IT news and small articles.
+- [Spiceworks Community](https://community.spiceworks.com/) - General enterprise IT news and small articles.
 - [StackExchange Network](https://stackexchange.com/sites#technology) - Q&A communities.
   - [Server Fault](https://serverfault.com/) - StackExchange community for system and network administrators.
 
@@ -30,7 +30,6 @@
 - [EPEL](https://fedoraproject.org/wiki/EPEL) - Repository for RHEL and compatibles (CentOS, Scientific Linux).
 - [IUS](https://ius.io/) - Community project that provides RPM packages for newer versions of select software for Enterprise Linux distributions.
 - [Remi](http://rpms.famillecollet.com/) - Repository with LAMP updated packages for RHEL/Centos/Fedora.
-- [Software Collections](https://www.softwarecollections.org) - Community Release of [Red Hat Software Collections](https://access.redhat.com/documentation/en/red-hat-software-collections/). Provides updated packages of Ruby, Python, etc. for CentOS/Scientific Linux 6.x.
 
 ### Websites
 
