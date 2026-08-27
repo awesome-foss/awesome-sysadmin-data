@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/passteque/gluetun
-stargazers_count: 15231
-updated_at: '2026-08-13'
+stargazers_count: 15307
+updated_at: '2026-08-23'
 archived: false
 current_release:
   tag: v3.41.3
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 60
   2026-06: 15
   2026-07: 7
-  2026-08: 21
+  2026-08: 26

@@ -8,8 +8,8 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/henrygd/beszel
-stargazers_count: 24391
-updated_at: '2026-08-19'
+stargazers_count: 24725
+updated_at: '2026-08-26'
 archived: false
 current_release:
   tag: v0.18.8
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 4
   2026-06: 0
   2026-07: 0
-  2026-08: 89
+  2026-08: 97

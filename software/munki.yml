@@ -8,12 +8,12 @@ platforms:
 tags:
   - Deployment Automation
 source_code_url: https://github.com/munki/munki
-stargazers_count: 3454
-updated_at: '2026-06-23'
+stargazers_count: 3456
+updated_at: '2026-08-24'
 archived: false
 current_release:
-  tag: v7.3.0b3
-  published_at: '2026-08-18'
+  tag: v7.3.0
+  published_at: '2026-08-25'
 commit_history:
   2025-09: 32
   2025-10: 29
@@ -25,5 +25,5 @@ commit_history:
   2026-04: 20
   2026-05: 40
   2026-06: 49
-  2026-07: 0
-  2026-08: 0
+  2026-07: 3
+  2026-08: 18

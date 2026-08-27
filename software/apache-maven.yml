@@ -8,8 +8,8 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/apache/maven
-stargazers_count: 5319
-updated_at: '2026-08-19'
+stargazers_count: 5323
+updated_at: '2026-08-27'
 archived: false
 current_release:
   tag: maven-4.0.0-rc-6
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 51
   2026-06: 105
   2026-07: 71
-  2026-08: 32
+  2026-08: 64
