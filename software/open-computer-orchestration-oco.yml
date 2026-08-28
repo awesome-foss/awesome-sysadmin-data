@@ -13,5 +13,4 @@ tags:
   - IT Asset Management
   - Configuration Management
   - Continuous Integration & Continuous Deployment
-depends_3rdparty: false
 related_software_url: "https://github.com/schorschii/OCO-Agent"
