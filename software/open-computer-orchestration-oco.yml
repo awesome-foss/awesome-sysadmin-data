@@ -8,9 +8,6 @@ platforms:
   - Python
   - PHP
 tags:
-  - Automation
-  - Deployment Automation
   - IT Asset Management
   - Configuration Management
-  - Continuous Integration & Continuous Deployment
 related_software_url: "https://github.com/schorschii/OCO-Agent"
