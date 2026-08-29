@@ -8,14 +8,13 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/lxc/lxc
-stargazers_count: 5214
-updated_at: '2026-06-22'
+stargazers_count: 5248
+updated_at: '2026-08-20'
 archived: false
 current_release:
   tag: v7.0.0
   published_at: '2026-04-30'
 commit_history:
-  2025-08: 11
   2025-09: 9
   2025-10: 20
   2025-11: 8
@@ -24,6 +23,7 @@ commit_history:
   2026-02: 12
   2026-03: 20
   2026-04: 29
-  2026-05: 28
+  2026-05: 29
   2026-06: 4
-  2026-07: 0
+  2026-07: 3
+  2026-08: 4

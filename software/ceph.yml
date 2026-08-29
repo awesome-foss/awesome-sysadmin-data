@@ -8,11 +8,10 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/ceph/ceph
-stargazers_count: 16775
-updated_at: '2026-07-04'
+stargazers_count: 16975
+updated_at: '2026-08-28'
 archived: false
 commit_history:
-  2025-08: 700
   2025-09: 636
   2025-10: 456
   2025-11: 552
@@ -21,6 +20,7 @@ commit_history:
   2026-02: 637
   2026-03: 1033
   2026-04: 815
-  2026-05: 769
-  2026-06: 808
-  2026-07: 92
+  2026-05: 783
+  2026-06: 903
+  2026-07: 1038
+  2026-08: 911

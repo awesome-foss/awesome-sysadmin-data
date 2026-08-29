@@ -9,8 +9,8 @@ tags:
   - Backups
 source_code_url: https://gitlab.com/duplicity/duplicity
 stargazers_count: 286
-updated_at: '2026-07-01'
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: rel.3.1.0
-  published_at: '2026-06-16'
+  tag: rel.3.2.0.2
+  published_at: '2026-08-22'

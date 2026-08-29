@@ -9,14 +9,13 @@ platforms:
 tags:
   - Deployment Automation
 source_code_url: https://github.com/apache/cloudstack
-stargazers_count: 2964
-updated_at: '2026-07-04'
+stargazers_count: 3031
+updated_at: '2026-08-27'
 archived: false
 current_release:
-  tag: 4.22.1.0
-  published_at: '2026-05-26'
+  tag: 4.22.1.1
+  published_at: '2026-08-21'
 commit_history:
-  2025-08: 84
   2025-09: 95
   2025-10: 98
   2025-11: 51
@@ -25,6 +24,7 @@ commit_history:
   2026-02: 59
   2026-03: 88
   2026-04: 80
-  2026-05: 52
-  2026-06: 34
-  2026-07: 7
+  2026-05: 55
+  2026-06: 47
+  2026-07: 79
+  2026-08: 78

@@ -8,11 +8,10 @@ platforms:
 tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/fusiondirectory/fusiondirectory
-stargazers_count: 188
-updated_at: '2026-07-01'
+stargazers_count: 190
+updated_at: '2026-08-28'
 archived: false
 commit_history:
-  2025-08: 8
   2025-09: 4
   2025-10: 12
   2025-11: 6
@@ -22,5 +21,6 @@ commit_history:
   2026-03: 3
   2026-04: 4
   2026-05: 19
-  2026-06: 32
-  2026-07: 4
+  2026-06: 33
+  2026-07: 44
+  2026-08: 33

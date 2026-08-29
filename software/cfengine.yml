@@ -8,11 +8,10 @@ platforms:
 tags:
   - Configuration Management
 source_code_url: https://github.com/cfengine/core
-stargazers_count: 526
-updated_at: '2026-07-03'
+stargazers_count: 532
+updated_at: '2026-08-28'
 archived: false
 commit_history:
-  2025-08: 32
   2025-09: 22
   2025-10: 44
   2025-11: 77
@@ -22,5 +21,6 @@ commit_history:
   2026-03: 15
   2026-04: 52
   2026-05: 49
-  2026-06: 82
-  2026-07: 33
+  2026-06: 84
+  2026-07: 98
+  2026-08: 92

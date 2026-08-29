@@ -9,14 +9,13 @@ platforms:
 tags:
   - Time Servers
 source_code_url: https://github.com/pendulum-project/statime
-stargazers_count: 304
+stargazers_count: 313
 updated_at: '2026-06-10'
 archived: false
 current_release:
   tag: v0.4.0
   published_at: '2025-03-13'
 commit_history:
-  2025-08: 0
   2025-09: 7
   2025-10: 2
   2025-11: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-05: 1
   2026-06: 2
   2026-07: 0
+  2026-08: 0

@@ -10,14 +10,13 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/openITCOCKPIT/openITCOCKPIT
 demo_url: https://demo.openitcockpit.io/
-stargazers_count: 378
-updated_at: '2026-07-02'
+stargazers_count: 382
+updated_at: '2026-08-28'
 archived: false
 current_release:
   tag: openITCOCKPIT-5.6.1
   published_at: '2026-06-26'
 commit_history:
-  2025-08: 137
   2025-09: 182
   2025-10: 87
   2025-11: 43
@@ -26,6 +25,7 @@ commit_history:
   2026-02: 82
   2026-03: 52
   2026-04: 58
-  2026-05: 39
-  2026-06: 24
-  2026-07: 1
+  2026-05: 40
+  2026-06: 41
+  2026-07: 43
+  2026-08: 79

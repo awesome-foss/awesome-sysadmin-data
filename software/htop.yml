@@ -1,0 +1,20 @@
+name: htop
+description: Interactive process viewer and system monitor for Unix systems.
+website_url: https://htop.dev/
+source_code_url: https://github.com/htop-dev/htop
+licenses:
+  - GPL-2.0
+platforms:
+  - C
+tags:
+  - Monitoring & Status Pages
+stargazers_count: 8289
+updated_at: '2026-08-26'
+archived: false
+current_release:
+  tag: 3.5.3
+  published_at: '2026-08-16'
+commit_history:
+  2026-06: 34
+  2026-07: 16
+  2026-08: 40
