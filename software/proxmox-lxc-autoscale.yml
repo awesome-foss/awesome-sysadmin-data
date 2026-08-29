@@ -1,0 +1,11 @@
+name: Proxmox LXC Autoscale
+website_url: https://github.com/fabriziosalmi/proxmox-lxc-autoscale
+description: Automatically scale LXC container resources on Proxmox VE hosts.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Virtualization
+source_code_url: https://github.com/fabriziosalmi/proxmox-lxc-autoscale
