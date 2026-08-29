@@ -8,3 +8,13 @@ platforms:
 tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/WrenSecurity/wrenig
+stargazers_count: 7
+updated_at: '2026-07-28'
+archived: false
+current_release:
+  tag: 5.0.1
+  published_at: '2026-02-04'
+commit_history:
+  2026-06: 1
+  2026-07: 6
+  2026-08: 0

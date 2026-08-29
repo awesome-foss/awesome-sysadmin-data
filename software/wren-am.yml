@@ -8,3 +8,13 @@ platforms:
 tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/WrenSecurity/wrenam
+stargazers_count: 55
+updated_at: '2026-08-28'
+archived: false
+current_release:
+  tag: 15.3.0-M1
+  published_at: '2026-07-27'
+commit_history:
+  2026-06: 9
+  2026-07: 35
+  2026-08: 9
