@@ -8,7 +8,7 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/librenms/librenms
-stargazers_count: 4852
+stargazers_count: 4855
 updated_at: '2026-08-28'
 archived: false
 current_release:
@@ -26,4 +26,4 @@ commit_history:
   2026-05: 143
   2026-06: 126
   2026-07: 139
-  2026-08: 112
+  2026-08: 115
