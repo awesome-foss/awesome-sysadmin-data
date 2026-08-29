@@ -1,0 +1,11 @@
+name: CertMate
+website_url: https://www.certmate.org/
+source_code_url: https://github.com/fabriziosalmi/certmate
+description: Certificate lifecycle management with a web interface and REST API to issue, renew, discover, inventory and deploy TLS certificates through ACME and DNS providers, with a built-in private certificate authority.
+licenses:
+  - MIT
+platforms:
+  - Python
+  - Docker
+tags:
+  - Identity Management - Tools and web interfaces
