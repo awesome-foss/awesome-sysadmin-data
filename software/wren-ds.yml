@@ -1,0 +1,10 @@
+name: Wren:DS
+website_url: https://wrensecurity.org/projects/wrends/
+description: LDAPv3-compliant directory service providing a high-performance, highly available, and secure identity data store for enterprise environments.
+licenses:
+  - CDDL-1.0
+platforms:
+  - Java
+tags:
+  - Identity Management - LDAP
+source_code_url: https://github.com/WrenSecurity/wrends
