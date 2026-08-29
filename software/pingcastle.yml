@@ -8,3 +8,4 @@ platforms:
 tags:
   - Miscellaneous
 source_code_url: https://github.com/netwrix/pingcastle
+depends_3rdparty: true
