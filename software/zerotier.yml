@@ -1,0 +1,12 @@
+name: ZeroTier
+website_url: https://www.zerotier.com/
+description: Software-defined peer-to-peer virtual network that lets devices securely connect across the internet as if on the same LAN.
+licenses:
+  - MPL-2.0
+platforms:
+  - C++
+  - Go
+tags:
+  - VPN
+source_code_url: https://github.com/zerotier/ZeroTierOne
+depends_3rdparty: true
