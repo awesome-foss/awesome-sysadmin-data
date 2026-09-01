@@ -8,8 +8,8 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/docker/compose
-stargazers_count: 38101
-updated_at: '2026-08-31'
+stargazers_count: 38108
+updated_at: '2026-09-01'
 archived: false
 current_release:
   tag: v5.5.0
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 63
   2026-07: 68
   2026-08: 138
-  2026-09: 0
+  2026-09: 2

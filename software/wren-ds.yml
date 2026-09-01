@@ -9,7 +9,7 @@ tags:
   - Identity Management - LDAP
 source_code_url: https://github.com/WrenSecurity/wrends
 stargazers_count: 45
-updated_at: '2026-08-13'
+updated_at: '2026-09-01'
 archived: false
 current_release:
   tag: 5.1.1
@@ -18,4 +18,4 @@ commit_history:
   2026-06: 1
   2026-07: 12
   2026-08: 1
-  2026-09: 0
+  2026-09: 2
