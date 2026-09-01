@@ -8,14 +8,13 @@ platforms:
 tags:
   - Virtualization
 source_code_url: https://github.com/hashicorp/vagrant
-stargazers_count: 27205
-updated_at: '2026-08-03'
+stargazers_count: 27203
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: 2.4.10.dev+000834-2757db88
   published_at: '2026-06-01'
 commit_history:
-  2025-09: 1
   2025-10: 0
   2025-11: 19
   2025-12: 12
@@ -26,4 +25,5 @@ commit_history:
   2026-05: 1
   2026-06: 2
   2026-07: 4
-  2026-08: 1
+  2026-08: 3
+  2026-09: 0

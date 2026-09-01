@@ -9,13 +9,12 @@ tags:
   - Build and software organization tools
 source_code_url: https://github.com/easybuilders/easybuild-easyconfigs
 stargazers_count: 450
-updated_at: '2026-08-29'
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: easybuild-easyconfigs-v5.4.0
   published_at: '2026-08-09'
 commit_history:
-  2025-09: 695
   2025-10: 1286
   2025-11: 821
   2025-12: 711
@@ -25,5 +24,6 @@ commit_history:
   2026-04: 472
   2026-05: 403
   2026-06: 918
-  2026-07: 278
-  2026-08: 561
+  2026-07: 303
+  2026-08: 587
+  2026-09: 0

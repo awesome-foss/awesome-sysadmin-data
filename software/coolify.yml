@@ -8,14 +8,13 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/coollabsio/coolify
-stargazers_count: 61227
-updated_at: '2026-08-30'
+stargazers_count: 61256
+updated_at: '2026-08-31'
 archived: false
 current_release:
   tag: v4.3.14
   published_at: '2026-08-28'
 commit_history:
-  2025-09: 462
   2025-10: 666
   2025-11: 539
   2025-12: 438
@@ -26,4 +25,5 @@ commit_history:
   2026-05: 269
   2026-06: 293
   2026-07: 246
-  2026-08: 461
+  2026-08: 469
+  2026-09: 0

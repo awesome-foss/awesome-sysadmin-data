@@ -10,14 +10,13 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/TwiN/gatus
 demo_url: https://status.twin.sh
-stargazers_count: 11934
+stargazers_count: 11944
 updated_at: '2026-08-27'
 archived: false
 current_release:
   tag: v5.36.0
   published_at: '2026-05-19'
 commit_history:
-  2025-09: 39
   2025-10: 37
   2025-11: 21
   2025-12: 19
@@ -29,3 +28,4 @@ commit_history:
   2026-06: 3
   2026-07: 3
   2026-08: 5
+  2026-09: 0

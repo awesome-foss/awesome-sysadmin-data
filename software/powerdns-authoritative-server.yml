@@ -9,10 +9,9 @@ tags:
   - DNS - Servers
 source_code_url: https://github.com/PowerDNS/pdns
 stargazers_count: 4456
-updated_at: '2026-08-27'
+updated_at: '2026-08-31'
 archived: false
 commit_history:
-  2025-09: 298
   2025-10: 309
   2025-11: 461
   2025-12: 228
@@ -22,5 +21,6 @@ commit_history:
   2026-04: 262
   2026-05: 278
   2026-06: 409
-  2026-07: 335
-  2026-08: 140
+  2026-07: 337
+  2026-08: 168
+  2026-09: 0
