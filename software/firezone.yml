@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 9047
-updated_at: '2026-09-01'
+stargazers_count: 9048
+updated_at: '2026-09-02'
 archived: false
 current_release:
   tag: gui-client-1.5.16
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 299
   2026-07: 424
   2026-08: 393
-  2026-09: 44
+  2026-09: 63
