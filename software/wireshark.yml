@@ -8,8 +8,8 @@ platforms:
 tags:
   - Troubleshooting
 source_code_url: https://gitlab.com/wireshark/wireshark
-stargazers_count: 1619
-updated_at: '2026-08-26'
+stargazers_count: 1621
+updated_at: '2026-09-01'
 archived: false
 current_release:
   tag: v4.6.4

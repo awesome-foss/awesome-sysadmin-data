@@ -8,14 +8,13 @@ platforms:
 tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/graphite-project/graphite-web
-stargazers_count: 6109
+stargazers_count: 6115
 updated_at: '2026-07-19'
 archived: false
 current_release:
   tag: 1.2.1-pre2
   published_at: '2026-03-17'
 commit_history:
-  2025-09: 0
   2025-10: 0
   2025-11: 0
   2025-12: 0
@@ -27,3 +26,4 @@ commit_history:
   2026-06: 1
   2026-07: 6
   2026-08: 0
+  2026-09: 0

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Backups
 source_code_url: https://github.com/databasus/databasus
-stargazers_count: 8311
-updated_at: '2026-08-26'
+stargazers_count: 8400
+updated_at: '2026-08-31'
 archived: false
 current_release:
-  tag: v3.55.1
-  published_at: '2026-08-26'
+  tag: v3.55.3
+  published_at: '2026-08-29'
 commit_history:
-  2025-09: 28
   2025-10: 6
   2025-11: 50
   2025-12: 135
@@ -26,4 +25,5 @@ commit_history:
   2026-05: 123
   2026-06: 45
   2026-07: 41
-  2026-08: 34
+  2026-08: 41
+  2026-09: 0
