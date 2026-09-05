@@ -1,0 +1,12 @@
+name: Casdoor
+website_url: https://casdoor.ai
+description: Identity and access management (IAM) / single sign-on (SSO) platform with a web UI, supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP and MFA.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Identity Management - Single Sign-On (SSO)
+source_code_url: https://github.com/casdoor/casdoor
+demo_url: https://door.casdoor.com
