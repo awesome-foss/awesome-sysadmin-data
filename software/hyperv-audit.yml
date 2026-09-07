@@ -1,0 +1,10 @@
+name: Hyper-V Audit
+website_url: https://github.com/kythel/hyperv-audit
+description: Read-only audit of Hyper-V hosts and failover clusters against ~40 best practices, with an HTML report explaining each finding.
+licenses:
+  - MIT
+platforms:
+  - PowerShell
+tags:
+  - Virtualization
+source_code_url: https://github.com/kythel/hyperv-audit
