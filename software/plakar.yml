@@ -5,6 +5,7 @@ description: An encrypted, deduplicated, verifiable, and scalable backup engine 
 licenses:
   - ISC
 platforms:
+  - deb
   - Docker
   - Go
   - K8S
