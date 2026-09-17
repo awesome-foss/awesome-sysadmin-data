@@ -1,0 +1,10 @@
+name: Foundry OSD
+website_url: https://github.com/foundry-osd/foundry
+source_code_url: https://github.com/foundry-osd/foundry
+description: Windows deployment toolkit for creating bootable ISO and USB media, configuring WinPE networking, and installing Windows with drivers and provisioning settings.
+licenses:
+  - MIT
+platforms:
+  - C#
+tags:
+  - Deployment Automation
