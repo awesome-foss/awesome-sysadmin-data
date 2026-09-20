@@ -1,7 +1,7 @@
 name: Plakar
 website_url: https://www.plakar.io/
 source_code_url: https://github.com/PlakarKorp/plakar
-description: An encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
+description: Encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
 licenses:
   - ISC
 platforms:
