@@ -8,8 +8,8 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/juicedata/juicefs
-stargazers_count: 14439
-updated_at: '2026-09-18'
+stargazers_count: 14445
+updated_at: '2026-09-20'
 archived: false
 current_release:
   tag: v1.3.3
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 59
   2026-07: 56
   2026-08: 64
-  2026-09: 36
+  2026-09: 39

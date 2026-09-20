@@ -9,7 +9,7 @@ tags:
   - Build and software organization tools
 source_code_url: https://github.com/envmodules/modules
 stargazers_count: 866
-updated_at: '2026-09-17'
+updated_at: '2026-09-20'
 archived: false
 current_release:
   tag: v5.6.2
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 47
   2026-07: 38
   2026-08: 136
-  2026-09: 7
+  2026-09: 13
