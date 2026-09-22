@@ -9,7 +9,7 @@ tags:
   - Automation
 source_code_url: https://github.com/ruby/rake
 stargazers_count: 2459
-updated_at: '2026-09-07'
+updated_at: '2026-09-21'
 archived: false
 current_release:
   tag: v13.4.2
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 17
   2026-07: 14
   2026-08: 8
-  2026-09: 4
+  2026-09: 6

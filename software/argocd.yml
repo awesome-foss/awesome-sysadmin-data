@@ -8,8 +8,8 @@ platforms:
 tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/argoproj/argo-cd
-stargazers_count: 24205
-updated_at: '2026-09-20'
+stargazers_count: 24211
+updated_at: '2026-09-21'
 archived: false
 current_release:
   tag: v3.6.0-rc1
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 206
   2026-07: 205
   2026-08: 179
-  2026-09: 181
+  2026-09: 195

@@ -8,8 +8,8 @@ platforms:
 tags:
   - Service Discovery
 source_code_url: https://github.com/etcd-io/etcd
-stargazers_count: 52282
-updated_at: '2026-09-20'
+stargazers_count: 52291
+updated_at: '2026-09-21'
 archived: false
 current_release:
   tag: v3.7.1
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 97
   2026-07: 141
   2026-08: 75
-  2026-09: 39
+  2026-09: 41

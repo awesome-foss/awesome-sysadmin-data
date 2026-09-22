@@ -9,8 +9,8 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/Checkmk/checkmk
-stargazers_count: 2371
-updated_at: '2026-09-20'
+stargazers_count: 2373
+updated_at: '2026-09-21'
 archived: false
 commit_history:
   2025-10: 1511
@@ -24,4 +24,4 @@ commit_history:
   2026-06: 1590
   2026-07: 2313
   2026-08: 1815
-  2026-09: 1430
+  2026-09: 1569
