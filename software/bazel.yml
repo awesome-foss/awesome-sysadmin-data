@@ -8,12 +8,12 @@ platforms:
 tags:
   - Automation
 source_code_url: https://github.com/bazelbuild/bazel/
-stargazers_count: 25874
-updated_at: '2026-09-21'
+stargazers_count: 25876
+updated_at: '2026-09-22'
 archived: false
 current_release:
-  tag: 9.3.0rc2
-  published_at: '2026-09-17'
+  tag: 8.8.1rc2
+  published_at: '2026-09-22'
 commit_history:
   2025-10: 313
   2025-11: 160
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 240
   2026-07: 320
   2026-08: 310
-  2026-09: 346
+  2026-09: 378
