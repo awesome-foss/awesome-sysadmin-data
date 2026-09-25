@@ -8,12 +8,12 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/notepad-plus-plus/notepad-plus-plus
-stargazers_count: 29400
-updated_at: '2026-09-23'
+stargazers_count: 29410
+updated_at: '2026-09-24'
 archived: false
 current_release:
-  tag: v8.9.8
-  published_at: '2026-08-23'
+  tag: v8.9.8.1
+  published_at: '2026-09-24'
 commit_history:
   2025-10: 25
   2025-11: 56
@@ -26,4 +26,4 @@ commit_history:
   2026-06: 38
   2026-07: 50
   2026-08: 47
-  2026-09: 37
+  2026-09: 40
