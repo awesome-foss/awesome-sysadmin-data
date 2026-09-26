@@ -1,0 +1,10 @@
+name: Linux Device Manager
+website_url: https://github.com/getldm/linux-device-manager
+description: GTK4 hardware device manager for Linux with sysfs/udev enumeration, driver details, and safe enable/disable via polkit.
+licenses:
+  - GPL-3.0
+platforms:
+  - Java
+tags:
+  - IT Asset Management
+source_code_url: https://github.com/getldm/linux-device-manager
