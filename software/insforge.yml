@@ -1,0 +1,11 @@
+name: InsForge
+website_url: https://insforge.dev
+description: Agent-native cloud infrastructure for building full-stack apps, providing a Postgres database, authentication, storage, edge functions, realtime, vector search, payments, a model gateway, custom compute, etc.
+licenses:
+  - Apache-2.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - PaaS
+source_code_url: https://github.com/InsForge/InsForge
