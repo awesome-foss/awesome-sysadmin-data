@@ -1,0 +1,11 @@
+name: Warden
+website_url: https://github.com/projecthelena/warden
+source_code_url: https://github.com/projecthelena/warden
+description: Uptime monitoring with adaptive latency thresholds, incident correlation, alerts, and status pages.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Monitoring & Status Pages
