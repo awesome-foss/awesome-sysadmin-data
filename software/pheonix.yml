@@ -1,5 +1,5 @@
-name: Brackets
-website_url: https://brackets.io/
+name: Pheonix Code
+website_url: https://phcode.dev/
 description: Code editor for web designers and front-end developers.
 licenses:
   - MIT
@@ -7,14 +7,15 @@ platforms:
   - JavaScript
 tags:
   - Editors
-source_code_url: https://github.com/brackets-cont/brackets
-stargazers_count: 1516
-updated_at: '2024-12-13'
+source_code_url: https://github.com/phcode-dev/phoenix
+stargazers_count: 1514
+updated_at: '2026-09-27'
 archived: false
 current_release:
   tag: v2.2.1
   published_at: '2023-03-22'
 commit_history:
+  2025-10: 0
   2025-11: 0
   2025-12: 0
   2026-01: 0
@@ -26,4 +27,3 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 0
-  2026-10: 0
