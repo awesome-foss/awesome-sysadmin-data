@@ -1,0 +1,11 @@
+name: PingCastle
+website_url: https://www.pingcastle.com/
+description: Active Directory security assessment tool, produces an HTML risk report and maps trust relationships between domains.
+licenses:
+  - NPOSL-3.0
+platforms:
+  - C#
+tags:
+  - Miscellaneous
+source_code_url: https://github.com/netwrix/pingcastle
+depends_3rdparty: true
