@@ -8,5 +8,6 @@ platforms:
   - PHP
   - Docker
 tags:
+  - PaaS
   - Deployment Automation
 depends_3rdparty: false
