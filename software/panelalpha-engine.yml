@@ -1,0 +1,12 @@
+name: "PanelAlpha Engine"
+website_url: "https://engine.panelalpha.com/"
+source_code_url: "https://github.com/panelalpha/panelalpha-engine"
+description: "An open source engine that makes it easy to host any project on your own VPS with the help of AI."
+licenses:
+  - Apache-2.0
+platforms:
+  - PHP
+  - Docker
+tags:
+  - Deployment Automation
+depends_3rdparty: false
