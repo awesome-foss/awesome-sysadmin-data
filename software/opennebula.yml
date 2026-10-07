@@ -9,7 +9,7 @@ tags:
   - Virtualization
 source_code_url: https://github.com/OpenNebula/one
 stargazers_count: 1750
-updated_at: '2026-10-05'
+updated_at: '2026-10-06'
 archived: false
 commit_history:
   2025-11: 35
@@ -23,4 +23,4 @@ commit_history:
   2026-07: 86
   2026-08: 83
   2026-09: 74
-  2026-10: 9
+  2026-10: 19
