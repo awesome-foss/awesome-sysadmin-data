@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/sshuttle/sshuttle
-stargazers_count: 13598
-updated_at: '2026-10-05'
+stargazers_count: 13599
+updated_at: '2026-10-07'
 archived: false
 current_release:
   tag: v2.0.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 23
   2026-08: 18
   2026-09: 17
-  2026-10: 5
+  2026-10: 6

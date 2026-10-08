@@ -8,12 +8,12 @@ platforms:
 tags:
   - IT Asset Management
 source_code_url: https://github.com/glpi-project/glpi
-stargazers_count: 6430
-updated_at: '2026-10-06'
+stargazers_count: 6437
+updated_at: '2026-10-07'
 archived: false
 current_release:
-  tag: 11.0.11
-  published_at: '2026-10-01'
+  tag: 12.0.0
+  published_at: '2026-10-07'
 commit_history:
   2025-11: 163
   2025-12: 178
@@ -24,6 +24,6 @@ commit_history:
   2026-05: 116
   2026-06: 174
   2026-07: 124
-  2026-08: 88
-  2026-09: 206
-  2026-10: 48
+  2026-08: 157
+  2026-09: 335
+  2026-10: 100

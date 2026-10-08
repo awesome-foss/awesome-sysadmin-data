@@ -9,7 +9,7 @@ tags:
   - Continuous Integration & Continuous Deployment
 source_code_url: https://github.com/concourse/concourse
 demo_url: https://ci.concourse-ci.org/
-stargazers_count: 7912
+stargazers_count: 7913
 updated_at: '2026-10-07'
 archived: false
 current_release:
@@ -27,4 +27,4 @@ commit_history:
   2026-07: 122
   2026-08: 50
   2026-09: 60
-  2026-10: 24
+  2026-10: 29
