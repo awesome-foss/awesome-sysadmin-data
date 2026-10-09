@@ -1,0 +1,16 @@
+name: OpenBao
+website_url: https://openbao.org
+description: Static and dynamic secrets manager including X.509 & SSH CAs, JWT issuer, and KMS under the OpenSSF.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+  - deb
+tags:
+  - Automation
+  - Automation
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/openbao/openbao
+related_software_url: https://github.com/openbao/openbao-plugins
