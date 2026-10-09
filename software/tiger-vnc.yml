@@ -8,8 +8,8 @@ platforms:
 tags:
   - Remote Desktop Clients
 source_code_url: https://github.com/TigerVNC/tigervnc
-stargazers_count: 7542
-updated_at: '2026-09-25'
+stargazers_count: 7548
+updated_at: '2026-10-08'
 archived: false
 current_release:
   tag: v1.16.2
@@ -25,5 +25,5 @@ commit_history:
   2026-06: 72
   2026-07: 4
   2026-08: 107
-  2026-09: 19
-  2026-10: 0
+  2026-09: 28
+  2026-10: 2
