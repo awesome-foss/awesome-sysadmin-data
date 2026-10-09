@@ -5,9 +5,9 @@ licenses:
   - MPL-2.0
 platforms:
   - Go
-  - JavaScript
   - Docker
   - K8S
+  - deb
 tags:
   - Automation
   - Cloud Computing
