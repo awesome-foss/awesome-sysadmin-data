@@ -6,6 +6,6 @@ licenses:
 platforms:
   - Go
 tags:
-  - Cloud Computing
+  - Automation
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/getsops/sops
