@@ -1,0 +1,11 @@
+name: SOPS
+website_url: https://getsops.io
+description: Simple and flexible tool for managing secrets under the CNCF.
+licenses:
+  - MPL-2.0
+platforms:
+  - Go
+tags:
+  - Automation
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/getsops/sops
