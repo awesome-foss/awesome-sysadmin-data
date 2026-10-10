@@ -9,7 +9,7 @@ tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/octodns/octodns
 stargazers_count: 3772
-updated_at: '2026-10-05'
+updated_at: '2026-10-09'
 archived: false
 commit_history:
   2025-11: 18
@@ -23,4 +23,4 @@ commit_history:
   2026-07: 39
   2026-08: 31
   2026-09: 11
-  2026-10: 2
+  2026-10: 4
