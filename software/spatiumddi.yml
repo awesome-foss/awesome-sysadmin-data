@@ -1,0 +1,10 @@
+name: SpatiumDDI
+website_url: https://www.spatiumddi.com
+description: Unified DNS, DHCP and IPAM (DDI) platform that manages BIND9, PowerDNS, Technitium and Kea from a single control plane.
+licenses:
+  - Apache-2.0
+platforms:
+  - Python
+tags:
+  - Network Configuration Management
+source_code_url: https://github.com/spatiumnorth/spatiumddi
