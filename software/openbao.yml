@@ -9,8 +9,6 @@ platforms:
   - K8S
   - deb
 tags:
-  - Automation
-  - Automation
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/openbao/openbao
 related_software_url: https://github.com/openbao/openbao-plugins
