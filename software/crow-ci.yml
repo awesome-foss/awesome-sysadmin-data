@@ -1,0 +1,10 @@
+name: Crow CI
+website_url: https://crowci.com/
+source_code_url: https://codefloe.com/crowci/crow
+description: CI/CD platform with multiple Git forges on one instance, parallel pipeline steps, Docker and Kubernetes agents, and external secret store integrations (fork of Woodpecker).
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Continuous Integration & Continuous Deployment
