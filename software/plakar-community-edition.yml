@@ -1,4 +1,4 @@
-name: Plakar
+name: Plakar Community Edition
 website_url: https://www.plakar.io/
 source_code_url: https://github.com/PlakarKorp/plakar
 description: Encrypted, deduplicated, verifiable, and scalable backup engine with no vendor lock-in.
@@ -8,6 +8,5 @@ platforms:
   - deb
   - Docker
   - Go
-  - K8S
 tags:
   - Backups
