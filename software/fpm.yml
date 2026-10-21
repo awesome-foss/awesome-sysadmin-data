@@ -8,14 +8,13 @@ platforms:
 tags:
   - Packaging
 source_code_url: https://github.com/jordansissel/fpm
-stargazers_count: 11502
-updated_at: '2026-08-20'
+stargazers_count: 11514
+updated_at: '2026-09-14'
 archived: false
 current_release:
   tag: v1.18.0
   published_at: '2026-08-26'
 commit_history:
-  2025-10: 37
   2025-11: 19
   2025-12: 0
   2026-01: 1
@@ -24,6 +23,7 @@ commit_history:
   2026-04: 1
   2026-05: 0
   2026-06: 0
-  2026-07: 0
+  2026-07: 1
   2026-08: 2
-  2026-09: 0
+  2026-09: 1
+  2026-10: 0

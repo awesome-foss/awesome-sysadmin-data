@@ -9,14 +9,13 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/performancecopilot/pcp
-stargazers_count: 1073
-updated_at: '2026-09-04'
+stargazers_count: 1079
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: 7.2.1
-  published_at: '2026-08-14'
+  tag: 7.2.2
+  published_at: '2026-10-07'
 commit_history:
-  2025-10: 220
   2025-11: 156
   2025-12: 217
   2026-01: 352
@@ -26,5 +25,6 @@ commit_history:
   2026-05: 121
   2026-06: 235
   2026-07: 263
-  2026-08: 139
-  2026-09: 6
+  2026-08: 147
+  2026-09: 234
+  2026-10: 131

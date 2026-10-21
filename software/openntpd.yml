@@ -9,10 +9,9 @@ tags:
   - Time Servers
 source_code_url: https://github.com/openntpd-portable/openntpd-openbsd/
 stargazers_count: 23
-updated_at: '2026-04-22'
+updated_at: '2026-09-18'
 archived: false
 commit_history:
-  2025-10: 16
   2025-11: 23
   2025-12: 1
   2026-01: 2
@@ -21,6 +20,7 @@ commit_history:
   2026-04: 6
   2026-05: 0
   2026-06: 0
-  2026-07: 0
-  2026-08: 0
-  2026-09: 0
+  2026-07: 18
+  2026-08: 24
+  2026-09: 16
+  2026-10: 0

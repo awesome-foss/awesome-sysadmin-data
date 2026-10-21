@@ -9,13 +9,14 @@ tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/WrenSecurity/wrenidm
 stargazers_count: 48
-updated_at: '2026-09-04'
+updated_at: '2026-10-02'
 archived: false
 current_release:
-  tag: 7.1.1
-  published_at: '2026-07-10'
+  tag: 7.2.0
+  published_at: '2026-10-02'
 commit_history:
   2026-06: 14
   2026-07: 12
   2026-08: 7
-  2026-09: 7
+  2026-09: 12
+  2026-10: 2

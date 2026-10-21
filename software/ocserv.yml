@@ -8,9 +8,9 @@ platforms:
 tags:
   - VPN
 source_code_url: https://gitlab.com/openconnect/ocserv
-stargazers_count: 369
-updated_at: '2026-08-15'
+stargazers_count: 371
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: 1.5.0
-  published_at: '2026-06-07'
+  tag: 1.6.0
+  published_at: '2026-10-16'

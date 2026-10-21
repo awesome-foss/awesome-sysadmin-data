@@ -11,14 +11,13 @@ tags:
   - Control Panels
 source_code_url: https://github.com/hestiacp/hestiacp
 demo_url: https://demo.hestiacp.com:8083/login/
-stargazers_count: 4490
-updated_at: '2026-09-03'
+stargazers_count: 4537
+updated_at: '2026-10-12'
 archived: false
 current_release:
-  tag: 1.10.4
-  published_at: '2026-08-24'
+  tag: 1.10.5
+  published_at: '2026-09-14'
 commit_history:
-  2025-10: 1
   2025-11: 37
   2025-12: 13
   2026-01: 18
@@ -28,5 +27,6 @@ commit_history:
   2026-05: 32
   2026-06: 74
   2026-07: 117
-  2026-08: 110
-  2026-09: 4
+  2026-08: 116
+  2026-09: 67
+  2026-10: 46

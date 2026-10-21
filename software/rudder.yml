@@ -8,14 +8,13 @@ platforms:
 tags:
   - Configuration Management
 source_code_url: https://github.com/Normation/rudder
-stargazers_count: 707
-updated_at: '2026-09-04'
+stargazers_count: 717
+updated_at: '2026-10-14'
 archived: false
 current_release:
   tag: 9.2.0.beta1
   published_at: '2026-08-31'
 commit_history:
-  2025-10: 203
   2025-11: 214
   2025-12: 269
   2026-01: 131
@@ -25,5 +24,6 @@ commit_history:
   2026-05: 139
   2026-06: 318
   2026-07: 361
-  2026-08: 377
-  2026-09: 37
+  2026-08: 378
+  2026-09: 211
+  2026-10: 105

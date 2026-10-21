@@ -8,14 +8,13 @@ platforms:
 tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/OpenVPN/easy-rsa
-stargazers_count: 4477
-updated_at: '2026-07-25'
+stargazers_count: 4481
+updated_at: '2026-10-18'
 archived: false
 current_release:
-  tag: v3.2.6
-  published_at: '2026-03-13'
+  tag: v3.2.7
+  published_at: '2026-09-19'
 commit_history:
-  2025-10: 43
   2025-11: 36
   2025-12: 27
   2026-01: 19
@@ -26,4 +25,5 @@ commit_history:
   2026-06: 1
   2026-07: 20
   2026-08: 0
-  2026-09: 0
+  2026-09: 14
+  2026-10: 17

@@ -8,14 +8,13 @@ platforms:
 tags:
   - Network Configuration Management
 source_code_url: https://github.com/phpipam/phpipam
-stargazers_count: 2796
-updated_at: '2026-09-04'
+stargazers_count: 2815
+updated_at: '2026-10-01'
 archived: false
 current_release:
-  tag: v1.8.2
-  published_at: '2026-08-16'
+  tag: v1.8.3
+  published_at: '2026-09-09'
 commit_history:
-  2025-10: 4
   2025-11: 11
   2025-12: 5
   2026-01: 0
@@ -25,5 +24,6 @@ commit_history:
   2026-05: 0
   2026-06: 0
   2026-07: 0
-  2026-08: 8
-  2026-09: 2
+  2026-08: 10
+  2026-09: 11
+  2026-10: 1
