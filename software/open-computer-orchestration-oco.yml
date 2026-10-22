@@ -1,0 +1,13 @@
+name: "Open Computer Orchestration (OCO)"
+website_url: "https://oco.sieber.systems/"
+source_code_url: "https://github.com/schorschii/OCO-Server"
+description: "Endpoint management solution with client/server inventory, configuration/policy management and software deployment for Linux, macOS and Windows. Also offers mobile device management for iOS and Android."
+licenses:
+  - GPL-3.0
+platforms:
+  - Python
+  - PHP
+tags:
+  - IT Asset Management
+  - Configuration Management
+related_software_url: "https://github.com/schorschii/OCO-Agent"
