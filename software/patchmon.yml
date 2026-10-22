@@ -1,0 +1,11 @@
+name: PatchMon
+website_url: https://patchmon.net/
+description: Monitor and apply package updates across Linux and FreeBSD servers from one web dashboard, using a lightweight outbound-only agent.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/PatchMon/PatchMon
