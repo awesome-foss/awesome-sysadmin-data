@@ -10,12 +10,12 @@ tags:
   - PaaS
 source_code_url: https://github.com/caprover/caprover
 demo_url: https://captain.server.demo.caprover.com/#/login
-stargazers_count: 15190
-updated_at: '2026-10-22'
+stargazers_count: 15188
+updated_at: '2026-10-23'
 archived: false
 current_release:
-  tag: v1.15.4
-  published_at: '2026-08-30'
+  tag: v1.15.5
+  published_at: '2026-10-23'
 commit_history:
   2025-11: 11
   2025-12: 7
@@ -28,4 +28,4 @@ commit_history:
   2026-07: 74
   2026-08: 58
   2026-09: 91
-  2026-10: 21
+  2026-10: 35
