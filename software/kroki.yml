@@ -8,12 +8,12 @@ platforms:
 tags:
   - Diagramming
 source_code_url: https://github.com/yuzutech/kroki
-stargazers_count: 4380
-updated_at: '2026-10-16'
+stargazers_count: 4381
+updated_at: '2026-10-25'
 archived: false
 current_release:
-  tag: v0.33.0
-  published_at: '2026-10-05'
+  tag: v0.34.0
+  published_at: '2026-10-25'
 commit_history:
   2025-11: 2
   2025-12: 32
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 24
   2026-08: 37
   2026-09: 27
-  2026-10: 15
+  2026-10: 48
