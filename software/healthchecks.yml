@@ -8,12 +8,12 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/healthchecks/healthchecks
-stargazers_count: 10451
-updated_at: '2026-10-22'
+stargazers_count: 10459
+updated_at: '2026-10-26'
 archived: false
 current_release:
-  tag: v5.0.1
-  published_at: '2026-10-22'
+  tag: v5.0.2
+  published_at: '2026-10-26'
 commit_history:
   2025-11: 31
   2025-12: 52
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 52
   2026-08: 51
   2026-09: 15
-  2026-10: 48
+  2026-10: 49
