@@ -8,8 +8,8 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/perkeep/perkeep
-stargazers_count: 7248
-updated_at: '2026-10-18'
+stargazers_count: 7250
+updated_at: '2026-10-27'
 archived: false
 current_release:
   tag: v0.12
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 0
   2026-08: 0
   2026-09: 7
-  2026-10: 230
+  2026-10: 249
