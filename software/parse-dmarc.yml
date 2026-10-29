@@ -14,7 +14,7 @@ tags:
 depends_3rdparty: true
 related_software_url: https://github.com/domainaware/parsedmarc
 stargazers_count: 223
-updated_at: '2026-10-27'
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v1.7.2
@@ -24,4 +24,4 @@ commit_history:
   2026-07: 10
   2026-08: 3
   2026-09: 32
-  2026-10: 29
+  2026-10: 32

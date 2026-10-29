@@ -8,8 +8,8 @@ platforms:
 tags:
   - Log Management
 source_code_url: https://github.com/rsyslog/rsyslog
-stargazers_count: 2343
-updated_at: '2026-10-25'
+stargazers_count: 2344
+updated_at: '2026-10-28'
 archived: false
 current_release:
   tag: v8.2610.0
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 287
   2026-08: 169
   2026-09: 205
-  2026-10: 282
+  2026-10: 301

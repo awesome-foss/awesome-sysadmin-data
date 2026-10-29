@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/firezone/firezone
-stargazers_count: 9131
-updated_at: '2026-10-27'
+stargazers_count: 9136
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: android-client-1.5.17
@@ -26,4 +26,4 @@ commit_history:
   2026-07: 424
   2026-08: 393
   2026-09: 485
-  2026-10: 369
+  2026-10: 403
