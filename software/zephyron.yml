@@ -1,0 +1,10 @@
+name: Zephyron
+website_url: https://github.com/NineUPFLOW/Zephyron
+description: Windows traffic router that sends each app through Zapret/winws2 DPI desync, a sing-box tunnel, or directly.
+licenses:
+  - MIT
+platforms:
+  - c#
+tags:
+  - VPN
+source_code_url: https://github.com/NineUPFLOW/Zephyron
