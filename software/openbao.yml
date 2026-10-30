@@ -12,8 +12,8 @@ tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/openbao/openbao
 related_software_url: https://github.com/openbao/openbao-plugins
-stargazers_count: 8757
-updated_at: '2026-10-28'
+stargazers_count: 8769
+updated_at: '2026-10-29'
 archived: false
 current_release:
   tag: v2.7.2
@@ -21,4 +21,4 @@ current_release:
 commit_history:
   2026-08: 147
   2026-09: 125
-  2026-10: 109
+  2026-10: 119
