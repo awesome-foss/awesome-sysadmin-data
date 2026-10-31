@@ -7,6 +7,7 @@ licenses:
 platforms:
   - Nodejs
   - Docker
+  - K8S
 tags:
   - Monitoring & Status Pages
 demo_url: https://checkmate.so/demo
