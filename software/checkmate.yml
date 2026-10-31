@@ -1,0 +1,12 @@
+name: Checkmate
+website_url: https://checkmate.so
+source_code_url: https://github.com/bluewave-labs/checkmate
+description: Uptime and infrastructure monitoring with status pages, incident tracking and alerting.
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Monitoring & Status Pages
+demo_url: https://checkmate.so/demo
