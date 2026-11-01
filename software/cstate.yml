@@ -9,14 +9,13 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/cstate/cstate
 demo_url: https://cstate.mnts.lt/
-stargazers_count: 2903
+stargazers_count: 2904
 updated_at: '2026-10-15'
 archived: false
 current_release:
   tag: v7-r1
   published_at: '2026-10-17'
 commit_history:
-  2025-11: 1
   2025-12: 0
   2026-01: 0
   2026-02: 0
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 1
+  2026-11: 0

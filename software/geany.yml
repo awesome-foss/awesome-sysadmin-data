@@ -9,14 +9,13 @@ platforms:
 tags:
   - Editors
 source_code_url: https://github.com/geany/geany
-stargazers_count: 3748
+stargazers_count: 3747
 updated_at: '2026-10-19'
 archived: false
 current_release:
   tag: 2.1.0
   published_at: '2025-07-06'
 commit_history:
-  2025-11: 9
   2025-12: 35
   2026-01: 19
   2026-02: 15
@@ -28,3 +27,4 @@ commit_history:
   2026-08: 0
   2026-09: 3
   2026-10: 2
+  2026-11: 0

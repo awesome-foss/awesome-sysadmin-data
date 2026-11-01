@@ -9,13 +9,12 @@ tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/elastic/beats
 stargazers_count: 12649
-updated_at: '2026-10-30'
+updated_at: '2026-10-31'
 archived: false
 current_release:
   tag: v9.5.5
   published_at: '2026-10-06'
 commit_history:
-  2025-11: 93
   2025-12: 102
   2026-01: 77
   2026-02: 113
@@ -26,4 +25,5 @@ commit_history:
   2026-07: 184
   2026-08: 160
   2026-09: 153
-  2026-10: 168
+  2026-10: 169
+  2026-11: 0

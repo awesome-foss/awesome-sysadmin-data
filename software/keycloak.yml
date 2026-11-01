@@ -8,14 +8,13 @@ platforms:
 tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/keycloak/keycloak
-stargazers_count: 37617
+stargazers_count: 37620
 updated_at: '2026-10-30'
 archived: false
 current_release:
   tag: nightly
   published_at: '2022-09-27'
 commit_history:
-  2025-11: 191
   2025-12: 148
   2026-01: 227
   2026-02: 233
@@ -27,3 +26,4 @@ commit_history:
   2026-08: 281
   2026-09: 433
   2026-10: 295
+  2026-11: 0
