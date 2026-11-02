@@ -9,7 +9,7 @@ tags:
   - Editors
 source_code_url: https://github.com/phcode-dev/phoenix
 stargazers_count: 3015
-updated_at: '2026-10-29'
+updated_at: '2026-11-01'
 archived: false
 current_release:
   tag: v5.5.11
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 115
   2026-09: 307
   2026-10: 163
-  2026-11: 0
+  2026-11: 38
