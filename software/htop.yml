@@ -8,8 +8,8 @@ platforms:
   - C
 tags:
   - Monitoring & Status Pages
-stargazers_count: 8436
-updated_at: '2026-10-19'
+stargazers_count: 8439
+updated_at: '2026-11-02'
 archived: false
 current_release:
   tag: 3.5.3
@@ -19,5 +19,5 @@ commit_history:
   2026-07: 16
   2026-08: 44
   2026-09: 44
-  2026-10: 10
-  2026-11: 0
+  2026-10: 11
+  2026-11: 1
