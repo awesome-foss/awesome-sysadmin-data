@@ -10,8 +10,8 @@ platforms:
   - Go
 tags:
   - Backups
-stargazers_count: 2103
-updated_at: '2026-11-02'
+stargazers_count: 2102
+updated_at: '2026-11-03'
 archived: false
 current_release:
   tag: v1.1.9-rc.2
@@ -19,5 +19,5 @@ current_release:
 commit_history:
   2026-08: 114
   2026-09: 63
-  2026-10: 384
-  2026-11: 10
+  2026-10: 386
+  2026-11: 22
