@@ -1,0 +1,12 @@
+name: OpenRun
+website_url: https://openrun.dev/
+description: Deployment platform for internal tools, with declarative GitOps-based app management, OIDC/SAML auth and RBAC. Deploys apps on a single node with Docker/Podman or on a Kubernetes cluster.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - PaaS
+source_code_url: https://github.com/openrundev/openrun
