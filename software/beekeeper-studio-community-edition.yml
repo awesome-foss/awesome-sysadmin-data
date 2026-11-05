@@ -1,0 +1,11 @@
+name: "Beekeeper Studio Community Edition"
+website_url: "https://www.beekeeperstudio.io"
+source_code_url: "https://github.com/beekeeper-studio/beekeeper-studio"
+description: "Cross-platform desktop database manager for PostgreSQL, MySQL, SQLite, SQL Server and more, with query autocompletion, inline data editing, and data export."
+licenses:
+  - GPL-3.0
+platforms:
+  - TypeScript
+  - deb
+tags:
+  - Miscellaneous
