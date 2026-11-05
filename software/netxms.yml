@@ -12,7 +12,7 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/netxms/netxms
 stargazers_count: 421
-updated_at: '2026-11-03'
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: release-7.0.2
@@ -29,4 +29,4 @@ commit_history:
   2026-08: 183
   2026-09: 256
   2026-10: 238
-  2026-11: 27
+  2026-11: 48

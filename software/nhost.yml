@@ -10,8 +10,8 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
-stargazers_count: 9375
-updated_at: '2026-11-02'
+stargazers_count: 9376
+updated_at: '2026-11-04'
 archived: false
 current_release:
   tag: mcp@0.4.0-beta2
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 88
   2026-09: 106
   2026-10: 131
-  2026-11: 3
+  2026-11: 4
