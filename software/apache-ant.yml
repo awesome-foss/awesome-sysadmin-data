@@ -9,7 +9,7 @@ tags:
   - Automation
 source_code_url: https://github.com/apache/ant
 stargazers_count: 477
-updated_at: '2026-10-07'
+updated_at: '2026-11-05'
 archived: false
 commit_history:
   2025-12: 2
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 18
   2026-09: 5
   2026-10: 2
-  2026-11: 0
+  2026-11: 1
