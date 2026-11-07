@@ -9,12 +9,12 @@ tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/kuvasz-uptime/kuvasz
 demo_url: https://kuvasz-uptime.dev/demo/
-stargazers_count: 670
-updated_at: '2026-11-05'
+stargazers_count: 671
+updated_at: '2026-11-06'
 archived: false
 current_release:
-  tag: 4.6.0
-  published_at: '2026-10-25'
+  tag: 4.7.0
+  published_at: '2026-11-06'
 commit_history:
   2025-12: 15
   2026-01: 13
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 32
   2026-09: 26
   2026-10: 44
-  2026-11: 5
+  2026-11: 7
