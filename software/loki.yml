@@ -8,12 +8,12 @@ platforms:
 tags:
   - Log Management
 source_code_url: https://github.com/grafana/loki
-stargazers_count: 29133
-updated_at: '2026-11-06'
+stargazers_count: 29135
+updated_at: '2026-11-07'
 archived: false
 current_release:
-  tag: v3.6.20
-  published_at: '2026-11-06'
+  tag: v4.0.0-rc.3
+  published_at: '2026-11-07'
 commit_history:
   2025-12: 129
   2026-01: 241
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 390
   2026-09: 355
   2026-10: 620
-  2026-11: 122
+  2026-11: 128

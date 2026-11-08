@@ -8,8 +8,8 @@ platforms:
 tags:
   - Software Containers
 source_code_url: https://github.com/systemd/systemd
-stargazers_count: 17002
-updated_at: '2026-11-06'
+stargazers_count: 17008
+updated_at: '2026-11-07'
 archived: false
 current_release:
   tag: v259.11
@@ -25,5 +25,5 @@ commit_history:
   2026-07: 687
   2026-08: 623
   2026-09: 352
-  2026-10: 1439
-  2026-11: 641
+  2026-10: 1441
+  2026-11: 679
