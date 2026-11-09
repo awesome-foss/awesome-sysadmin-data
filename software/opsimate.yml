@@ -1,0 +1,13 @@
+name: OpsiMate
+website_url: https://www.opsimate.dev/
+description: Alert management for NOC and DevOps teams. One queue for Grafana, Datadog, Zabbix, Uptime Kuma and Google Cloud alerts, with ownership, mute policies and root-cause analysis (alternative to Opsgenie, PagerDuty).
+licenses:
+  - AGPL-3.0
+platforms:
+  - Nodejs
+  - Docker
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/OpsiMate/OpsiMate
+demo_url: https://demo.opsimate.dev/
+related_software_url: https://docs.opsimate.dev/docs/integrations/overview
