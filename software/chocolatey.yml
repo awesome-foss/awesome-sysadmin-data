@@ -10,7 +10,7 @@ tags:
   - Miscellaneous
 source_code_url: https://github.com/chocolatey/choco
 stargazers_count: 11563
-updated_at: '2026-10-28'
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: 2.7.5
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 6
   2026-09: 7
   2026-10: 20
-  2026-11: 0
+  2026-11: 2

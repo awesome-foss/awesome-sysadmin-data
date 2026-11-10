@@ -9,7 +9,7 @@ tags:
   - Service Discovery
 source_code_url: https://github.com/hashicorp/consul
 stargazers_count: 30110
-updated_at: '2026-11-05'
+updated_at: '2026-11-09'
 archived: false
 current_release:
   tag: v2.1.0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 21
   2026-09: 33
   2026-10: 35
-  2026-11: 2
+  2026-11: 3

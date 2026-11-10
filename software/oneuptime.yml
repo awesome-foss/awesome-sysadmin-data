@@ -8,8 +8,8 @@ platforms:
 tags:
   - Monitoring & Status Pages
 source_code_url: https://github.com/oneuptime/oneuptime
-stargazers_count: 7802
-updated_at: '2026-11-09'
+stargazers_count: 7805
+updated_at: '2026-11-10'
 archived: false
 current_release:
   tag: 14.0.105
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 1363
   2026-09: 2530
   2026-10: 12493
-  2026-11: 3578
+  2026-11: 3960
