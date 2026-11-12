@@ -10,11 +10,11 @@ tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/pomerium/pomerium
 stargazers_count: 5100
-updated_at: '2026-11-10'
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: v0.34.0
-  published_at: '2026-11-04'
+  tag: v0.34.1
+  published_at: '2026-11-11'
 commit_history:
   2025-12: 48
   2026-01: 50
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 38
   2026-09: 68
   2026-10: 80
-  2026-11: 36
+  2026-11: 39
