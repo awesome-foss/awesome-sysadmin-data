@@ -9,7 +9,7 @@ tags:
   - Distributed Filesystems
 source_code_url: https://github.com/apache/hadoop
 stargazers_count: 15712
-updated_at: '2026-11-11'
+updated_at: '2026-11-12'
 archived: false
 commit_history:
   2025-12: 20
@@ -23,4 +23,4 @@ commit_history:
   2026-08: 28
   2026-09: 22
   2026-10: 62
-  2026-11: 20
+  2026-11: 21

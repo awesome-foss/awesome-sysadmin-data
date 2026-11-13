@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/allegro/ralph
 demo_url: https://github.com/allegro/ralph#live-demo
 stargazers_count: 2532
-updated_at: '2026-11-10'
+updated_at: '2026-11-12'
 archived: false
 current_release:
-  tag: '20261106.1'
-  published_at: '2026-11-06'
+  tag: '20261112.1'
+  published_at: '2026-11-12'
 commit_history:
   2025-12: 19
   2026-01: 21
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 52
   2026-09: 3
   2026-10: 9
-  2026-11: 5
+  2026-11: 6
