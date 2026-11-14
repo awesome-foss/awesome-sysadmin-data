@@ -1,0 +1,12 @@
+name: Nightingale
+website_url: https://n9e.io/
+description: Alerting platform that evaluates rules against metrics, logs and SQL data sources, processes events and routes notifications.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+  - Docker
+  - K8S
+tags:
+  - Monitoring & Status Pages
+source_code_url: https://github.com/ccfos/nightingale
