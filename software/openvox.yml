@@ -10,11 +10,11 @@ tags:
   - Configuration Management
 source_code_url: https://github.com/OpenVoxProject/openvox
 stargazers_count: 203
-updated_at: '2026-11-10'
+updated_at: '2026-11-13'
 archived: false
 current_release:
-  tag: 9.3.0
-  published_at: '2026-11-03'
+  tag: 9.4.0
+  published_at: '2026-11-13'
 commit_history:
   2025-12: 58
   2026-01: 13
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 88
   2026-09: 79
   2026-10: 52
-  2026-11: 21
+  2026-11: 44

@@ -9,7 +9,7 @@ tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/WrenSecurity/wrenam
 stargazers_count: 55
-updated_at: '2026-11-12'
+updated_at: '2026-11-13'
 archived: false
 current_release:
   tag: 16.0.0-M2
@@ -20,4 +20,4 @@ commit_history:
   2026-08: 9
   2026-09: 10
   2026-10: 9
-  2026-11: 14
+  2026-11: 20
