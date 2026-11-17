@@ -11,11 +11,11 @@ tags:
 source_code_url: https://github.com/ku9nov/faynoSync
 related_software_url: https://github.com/ku9nov/faynoSync-dashboard
 stargazers_count: 161
-updated_at: '2026-11-05'
+updated_at: '2026-11-16'
 archived: false
 current_release:
-  tag: v2.9.0
-  published_at: '2026-11-05'
+  tag: v2.10.0
+  published_at: '2026-11-16'
 commit_history:
   2025-12: 19
   2026-01: 6
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 5
   2026-09: 52
   2026-10: 41
-  2026-11: 17
+  2026-11: 27
