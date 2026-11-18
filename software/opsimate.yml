@@ -4,7 +4,7 @@ description: Alert management for NOC and DevOps teams. One queue for Grafana, D
 licenses:
   - AGPL-3.0
 platforms:
-  - Nodejs
+  - K8S
   - Docker
 tags:
   - Monitoring & Status Pages
