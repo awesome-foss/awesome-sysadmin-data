@@ -8,8 +8,8 @@ platforms:
 tags:
   - Distributed Filesystems
 source_code_url: https://github.com/tahoe-lafs/tahoe-lafs
-stargazers_count: 1453
-updated_at: '2026-01-21'
+stargazers_count: 1456
+updated_at: '2026-11-17'
 archived: false
 current_release:
   tag: tahoe-lafs-1.19.0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 0
   2026-09: 0
   2026-10: 0
-  2026-11: 0
+  2026-11: 31
