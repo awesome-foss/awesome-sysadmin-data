@@ -7,4 +7,5 @@ platforms:
   - C
 tags:
   - DNS - Servers
+  - DHCP
 source_code_url: https://thekelleys.org.uk/gitweb/?p=dnsmasq.git;a=tree
