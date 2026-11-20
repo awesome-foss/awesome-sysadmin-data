@@ -8,8 +8,8 @@ platforms:
 tags:
   - Identity Management - Tools and web interfaces
 source_code_url: https://github.com/LDAPAccountManager/lam/
-stargazers_count: 498
-updated_at: '2026-11-18'
+stargazers_count: 497
+updated_at: '2026-11-19'
 archived: false
 current_release:
   tag: '9.7'
@@ -25,5 +25,5 @@ commit_history:
   2026-07: 116
   2026-08: 15
   2026-09: 49
-  2026-10: 67
-  2026-11: 20
+  2026-10: 70
+  2026-11: 34
