@@ -1,0 +1,10 @@
+name: ISC Kea DHCP
+website_url: https://www.isc.org/kea
+description: 'Modern, extensible open-source DHCPv4 and DHCPv6 server with REST APIs and SQL backends.'
+licenses:
+  - MPL-2.0
+platforms:
+  - C++
+tags:
+  - DHCP
+source_code_url: https://gitlab.isc.org/isc-projects/kea

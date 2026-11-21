@@ -1,0 +1,11 @@
+name: Jagornet DHCP
+website_url: https://www.jagornet.com
+description: 'Unified single-service DHCPv4/v6 server in Java/Netty with gRPC HA and OpenAPI REST.'
+licenses:
+  - MPL-2.0
+platforms:
+  - Java
+  - Docker
+tags:
+  - DHCP
+source_code_url: https://github.com/jagornet/dhcp
