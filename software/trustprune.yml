@@ -1,0 +1,10 @@
+name: trustprune
+website_url: https://trustprune.com/
+description: Audit and prune trusted CAs across OS stores (Linux, macOS, Windows), Firefox/NSS including built-in roots, Java keystores, CA bundles and certifi, and PDF readers (poppler, Okular, Acrobat, Foxit), with diff, denylist, and a connect chain view.
+licenses:
+  - Apache-2.0
+platforms:
+  - Go
+tags:
+  - Identity Management - Tools and web interfaces
+source_code_url: https://github.com/adamdecaf/trustprune
