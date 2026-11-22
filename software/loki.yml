@@ -8,7 +8,7 @@ platforms:
 tags:
   - Log Management
 source_code_url: https://github.com/grafana/loki
-stargazers_count: 29209
+stargazers_count: 29215
 updated_at: '2026-11-20'
 archived: false
 current_release:
