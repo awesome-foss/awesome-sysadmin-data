@@ -12,8 +12,8 @@ stargazers_count: 55
 updated_at: '2026-11-20'
 archived: false
 current_release:
-  tag: 16.0.0-M2
-  published_at: '2026-11-12'
+  tag: 15.3.0
+  published_at: '2026-11-22'
 commit_history:
   2026-06: 9
   2026-07: 35
