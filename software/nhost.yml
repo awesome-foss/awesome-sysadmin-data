@@ -10,12 +10,12 @@ platforms:
 tags:
   - PaaS
 source_code_url: https://github.com/nhost/nhost
-stargazers_count: 9394
-updated_at: '2026-11-20'
+stargazers_count: 9397
+updated_at: '2026-11-23'
 archived: false
 current_release:
-  tag: storage@0.16.0
-  published_at: '2026-11-20'
+  tag: storage@0.17.0
+  published_at: '2026-11-23'
 commit_history:
   2025-12: 41
   2026-01: 60
@@ -28,4 +28,4 @@ commit_history:
   2026-08: 88
   2026-09: 106
   2026-10: 131
-  2026-11: 72
+  2026-11: 77
