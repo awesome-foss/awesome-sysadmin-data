@@ -8,12 +8,12 @@ platforms:
 tags:
   - Metrics & Metric Collection
 source_code_url: https://github.com/grafana/grafana
-stargazers_count: 78081
+stargazers_count: 78135
 updated_at: '2026-11-24'
 archived: false
 current_release:
-  tag: v13.3.1
-  published_at: '2026-11-10'
+  tag: v13.3.2
+  published_at: '2026-11-24'
 commit_history:
   2025-12: 563
   2026-01: 750
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 1034
   2026-09: 1139
   2026-10: 1437
-  2026-11: 1195
+  2026-11: 1263

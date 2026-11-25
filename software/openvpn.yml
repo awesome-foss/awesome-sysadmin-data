@@ -8,8 +8,8 @@ platforms:
 tags:
   - VPN
 source_code_url: https://github.com/OpenVPN/openvpn
-stargazers_count: 14868
-updated_at: '2026-11-23'
+stargazers_count: 14873
+updated_at: '2026-11-24'
 archived: false
 current_release:
   tag: v2.7.9
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 75
   2026-09: 44
   2026-10: 67
-  2026-11: 142
+  2026-11: 149
