@@ -9,7 +9,7 @@ tags:
   - Network Configuration Management
 source_code_url: https://github.com/ytti/oxidized
 stargazers_count: 3671
-updated_at: '2026-11-16'
+updated_at: '2026-11-25'
 archived: false
 current_release:
   tag: 0.38.0
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 33
   2026-09: 31
   2026-10: 68
-  2026-11: 57
+  2026-11: 71

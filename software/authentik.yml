@@ -8,12 +8,12 @@ platforms:
 tags:
   - Identity Management - Single Sign-On (SSO)
 source_code_url: https://github.com/goauthentik/authentik
-stargazers_count: 26452
+stargazers_count: 26468
 updated_at: '2026-11-25'
 archived: false
 current_release:
-  tag: version/2026.11.0-rc2
-  published_at: '2026-11-24'
+  tag: version/2026.8.7
+  published_at: '2026-11-25'
 commit_history:
   2025-12: 371
   2026-01: 428
@@ -26,4 +26,4 @@ commit_history:
   2026-08: 449
   2026-09: 534
   2026-10: 469
-  2026-11: 424
+  2026-11: 458
