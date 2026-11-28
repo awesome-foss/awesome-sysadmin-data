@@ -10,7 +10,7 @@ tags:
   - DNS - Control Panels & Domain Management
 source_code_url: https://github.com/DNSControl/dnscontrol
 stargazers_count: 4019
-updated_at: '2026-11-25'
+updated_at: '2026-11-27'
 archived: false
 current_release:
   tag: v5.10.1
@@ -27,4 +27,4 @@ commit_history:
   2026-08: 164
   2026-09: 87
   2026-10: 76
-  2026-11: 64
+  2026-11: 65
