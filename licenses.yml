@@ -79,6 +79,10 @@
   name: No Limit Public License
   url: https://spdx.org/licenses/NLPL.html
 
+- identifier: NPOSL-3.0
+  name: Non-Profit Open Software License 3.0
+  url: https://spdx.org/licenses/NPOSL-3.0.html
+
 - identifier: OLDAP-2.8
   name: Open LDAP Public License v2.8
   url: https://spdx.org/licenses/OLDAP-2.8.html
