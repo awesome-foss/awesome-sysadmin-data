@@ -1,0 +1,14 @@
+name: "Akvorado"
+website_url: "https://akvorado.net/docs/intro"
+source_code_url: "https://github.com/akvorado/akvorado"
+description: "Flow collector, enricher and visualizer."
+licenses:
+  - AGPL-3.0
+platforms:
+  - Go
+  - TypeScript
+tags:
+  - Metrics & Metric Collection
+  - Monitoring & Status Pages
+depends_3rdparty: false
+demo_url: "https://demo.akvorado.net/"
