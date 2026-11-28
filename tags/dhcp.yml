@@ -1,0 +1,4 @@
+name: DHCP
+description: '[DHCP](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) servers.'
+related_tags:
+  - DNS - Servers
